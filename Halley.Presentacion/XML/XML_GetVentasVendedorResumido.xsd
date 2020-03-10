@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetVentasVendedorResumido" targetNamespace="http://tempuri.org/XML_GetVentasVendedorResumido.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetVentasVendedorResumido.xsd" xmlns:mstns="http://tempuri.org/GetVentasVendedorDetallado.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetVentasVendedorResumido">
+    <xs:complexType>
+      <xs:attribute name="Importe" type="xs:decimal" />
+      <xs:attribute name="Vendedor" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

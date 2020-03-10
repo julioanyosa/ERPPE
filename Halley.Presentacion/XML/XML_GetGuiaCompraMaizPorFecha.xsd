@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetGuiaCompraMaizPorFecha" targetNamespace="http://tempuri.org/XML_GetGuiaCompraMaizPorFecha.xsd" 
+           elementFormDefault="qualified" 
+           xmlns="http://tempuri.org/XML_GetGuiaCompraMaizPorFechas.xsd" 
+           xmlns:mstns="http://tempuri.org/XML_GetGuiaCompraMaizPorFecha.xsd" 
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetGuiaCompraMaizPorFecha">
+    <xs:complexType>
+      <xs:attribute name="NumHojaLiquidacion" type="xs:string" />
+      <xs:attribute name="ProductoID" type="xs:string" />
+      <xs:attribute name="Alias" type="xs:string" />
+      <xs:attribute name="UnidadMedidaID" type="xs:string" />
+      <xs:attribute name="NombreProveedor" type="xs:string" />
+      <xs:attribute name="DNI" type="xs:string" />
+      <xs:attribute name="Procedencia" type="xs:string" />
+      <xs:attribute name="PrecioUnitario" type="xs:decimal" />
+      <xs:attribute name="Sacos" type="xs:string" />
+      <xs:attribute name="TotalSaco" type="xs:int" />
+      <xs:attribute name="TotalPeso" type="xs:decimal" />
+      <xs:attribute name="Comentario" type="xs:string" />
+      <xs:attribute name="NomEstado" type="xs:string" />
+      <xs:attribute name="AudCrea" type="xs:dateTime" />
+      <xs:attribute name="TotalPagar" type="xs:decimal" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

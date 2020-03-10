@@ -1,0 +1,33 @@
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Entidad\bin\Debug\Halley.Entidad.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Entidad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Entidad\obj\Debug\Halley.Entidad.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Entidad\obj\Debug\Halley.Entidad.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Entidad\bin\Debug\Halley.Entidad.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Entidad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Entidad\obj\Debug\Halley.Entidad.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Entidad\obj\Debug\Halley.Entidad.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Entidad\bin\Debug\Halley.Entidad.dll
+G:\ERP_Halley\ERP_Halley\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Entidad\obj\Debug\ResolveAssemblyReference.cache
+G:\ERP_Halley\ERP_Halley\Halley.Entidad\obj\Debug\Halley.Entidad.dll
+G:\ERP_Halley\ERP_Halley\Halley.Entidad\obj\Debug\Halley.Entidad.pdb
+G:\ERP_HALLEY\Halley.Entidad\bin\Debug\Halley.Entidad.dll
+G:\ERP_HALLEY\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
+G:\ERP_HALLEY\Halley.Entidad\obj\Debug\ResolveAssemblyReference.cache
+G:\ERP_HALLEY\Halley.Entidad\obj\Debug\Halley.Entidad.dll
+G:\ERP_HALLEY\Halley.Entidad\obj\Debug\Halley.Entidad.pdb
+D:\ERP_HALLEY\Halley.Entidad\bin\Debug\Halley.Entidad.dll
+D:\ERP_HALLEY\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
+D:\ERP_HALLEY\Halley.Entidad\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP_HALLEY\Halley.Entidad\obj\Debug\Halley.Entidad.dll
+D:\ERP_HALLEY\Halley.Entidad\obj\Debug\Halley.Entidad.pdb
+E:\ERP_HALLEY\Halley.Entidad\bin\Debug\Halley.Entidad.dll
+E:\ERP_HALLEY\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
+E:\ERP_HALLEY\Halley.Entidad\obj\Debug\Halley.Entidad.dll
+E:\ERP_HALLEY\Halley.Entidad\obj\Debug\Halley.Entidad.pdb
+E:\PERUAN DE ENVASES\Halley.Entidad\bin\Debug\Halley.Entidad.dll
+E:\PERUAN DE ENVASES\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
+E:\PERUAN DE ENVASES\Halley.Entidad\obj\Debug\Halley.Entidad.dll
+E:\PERUAN DE ENVASES\Halley.Entidad\obj\Debug\Halley.Entidad.pdb

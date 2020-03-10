@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{399FC0C7-301E-4CF8-ABF4-B5E896188CFB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Halley.CapaDatos</RootNamespace>
+    <AssemblyName>Halley.CapaDatos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.C1Preview.2, Version=2.0.20082.50031, Culture=neutral, PublicKeyToken=594a0605db190bb9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\ComponentOne Studio.NET 2.0\bin\C1.C1Preview.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>C:\Program Files (x86)\System.Data.SQLite\2010\bin\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Almacen\CD_GuiaCompraMaiz.cs" />
+    <Compile Include="Almacen\CD_GuiaRemision.cs" />
+    <Compile Include="Almacen\CD_GuiaTransportista.cs" />
+    <Compile Include="Almacen\CD_HojaDespacho.cs" />
+    <Compile Include="Almacen\CD_Kardex.cs" />
+    <Compile Include="Almacen\CD_Requerimientos.cs" />
+    <Compile Include="Almacen\CD_Producto.cs" />
+    <Compile Include="Contabilidad\CD_Venta.cs" />
+    <Compile Include="Contabilidad\CD_Contabilidad.cs" />
+    <Compile Include="Empresa\CD_Chofer.cs" />
+    <Compile Include="Empresa\CD_Empresas.cs" />
+    <Compile Include="Compras\CD_OrdenCompra.cs" />
+    <Compile Include="Compras\CD_Proveedor.cs" />
+    <Compile Include="Empresa\CD_Vehiculo.cs" />
+    <Compile Include="Produccion\CD_Produccion.cs" />
+    <Compile Include="Users\CD_Helper.cs" />
+    <Compile Include="Users\CD_Menu.cs" />
+    <Compile Include="Users\CD_Perfil.cs" />
+    <Compile Include="Almacen\CD_Almacen.cs" />
+    <Compile Include="Users\CD_Usuario.cs" />
+    <Compile Include="Users\CD_UsuarioAlmacen.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VentasTemp\CD_VentasTemp.cs" />
+    <Compile Include="Ventas\CD_Comprobante.cs" />
+    <Compile Include="Ventas\CD_Credito.cs" />
+    <Compile Include="Ventas\CD_Vales.cs" />
+    <Compile Include="Ventas\CD_Venta.cs" />
+    <Compile Include="Ventas\CD_Cliente.cs" />
+    <Compile Include="Ventas\CD_OrdenPedido.cs" />
+    <Compile Include="Ventas\CD_Pago.cs" />
+    <Compile Include="Ventas\CD_NotaCredito.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Halley.Configuracion\Halley.Configuracion.csproj">
+      <Project>{8670C550-22FE-48DB-9487-E65886C977E2}</Project>
+      <Name>Halley.Configuracion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Halley.Entidad\Halley.Entidad.csproj">
+      <Project>{8848EF10-FA03-463E-9499-C9903ECB4052}</Project>
+      <Name>Halley.Entidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Halley.Utilitario\Halley.Utilitario.csproj">
+      <Project>{5FBCFB40-DCA9-409C-9B5F-8D13E88CFA13}</Project>
+      <Name>Halley.Utilitario</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Newtonsoft.Json.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

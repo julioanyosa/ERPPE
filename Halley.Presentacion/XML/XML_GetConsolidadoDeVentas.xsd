@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetConsolidadoDeVentas" targetNamespace="http://tempuri.org/XML_GetConsolidadoDeVentas.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetConsolidadoDeVentas.xsd" xmlns:mstns="http://tempuri.org/GetConsolidadoDeVentas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetConsolidadoDeVentas">
+    <xs:complexType>
+      <xs:attribute name="FECHA" type="xs:dateTime" />
+      <xs:attribute name="TIPOCONTABILIDAD" type="xs:string" />
+      <xs:attribute name="SERIE" type="xs:string" />
+      <xs:attribute name="NUMERO" type="xs:int" />
+      <xs:attribute name="TIPO_DOCUMENTO_IDENTIDAD" type="xs:string" />
+      <xs:attribute name="NUMERO_DOCUMENTO" type="xs:string" />
+      <xs:attribute name="RAZON_SOCIAL" type="xs:string" />
+      <xs:attribute name="BASE_IMPONIBLE_OE" type="xs:decimal" />
+      <xs:attribute name="BASE_IMPONIBLE_OG" type="xs:decimal" />
+      <xs:attribute name="IGV" type="xs:decimal" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="RUC" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+      <xs:attribute name="DomicilioFiscal" type="xs:string" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

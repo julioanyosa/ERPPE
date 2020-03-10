@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetCierreDiario" targetNamespace="http://tempuri.org/XML_GetCierreDiario.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetCierreDiario.xsd" xmlns:mstns="http://tempuri.org/GetCierreDiario.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetCierreDiario">
+    <xs:complexType>
+      <xs:attribute name="IdCierre" type="xs:int" />
+      <xs:attribute name="Cajero" type="xs:int" />
+      <xs:attribute name="NOMCAJERO" type="xs:string" />
+      <xs:attribute name="NomSede" type="xs:string" />
+      <xs:attribute name="DineroEntregado" type="xs:decimal" />
+      <xs:attribute name="Ingreso" type="xs:decimal" />
+      <xs:attribute name="Egreso" type="xs:decimal" />
+      <xs:attribute name="TotalPagos" type="xs:decimal" />
+      <xs:attribute name="TotalEntregar" type="xs:decimal" />
+      <xs:attribute name="HORAREGISTRO" type="xs:dateTime" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="RUC" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+      <xs:attribute name="DomicilioFiscal" type="xs:string" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

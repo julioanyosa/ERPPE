@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/OpenInvoicePeru.Comun.Dto.Modelos" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/OpenInvoicePeru.Comun.Dto.Modelos" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="DocumentoElectronico">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CalculoDetraccion" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CalculoIgv" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CalculoIsc" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DatoAdicionales" nillable="true" type="tns:ArrayOfDatoAdicional" />
+      <xs:element minOccurs="0" name="DatosGuiaTransportista" nillable="true" type="tns:DatosGuia" />
+      <xs:element minOccurs="0" name="DescuentoGlobal" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Discrepancias" nillable="true" type="tns:ArrayOfDiscrepancia" />
+      <xs:element minOccurs="0" name="DocAnticipo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Emisor" nillable="true" type="tns:Contribuyente" />
+      <xs:element minOccurs="0" name="Exoneradas" type="xs:decimal" />
+      <xs:element minOccurs="0" name="FechaEmision" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Gratuitas" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Gravadas" type="xs:decimal" />
+      <xs:element minOccurs="0" name="IdDocumento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Inafectas" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Items" nillable="true" type="tns:ArrayOfDetalleDocumento" />
+      <xs:element minOccurs="0" name="Moneda" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MonedaAnticipo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MontoAnticipo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="MontoDetraccion" type="xs:decimal" />
+      <xs:element minOccurs="0" name="MontoEnLetras" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MontoPercepcion" type="xs:decimal" />
+      <xs:element minOccurs="0" name="PlacaVehiculo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Receptor" nillable="true" type="tns:Contribuyente" />
+      <xs:element minOccurs="0" name="Relacionados" nillable="true" type="tns:ArrayOfDocumentoRelacionado" />
+      <xs:element minOccurs="0" name="RutaXML" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoDocAnticipo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoDocumento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoOperacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TotalIgv" type="xs:decimal" />
+      <xs:element minOccurs="0" name="TotalIsc" type="xs:decimal" />
+      <xs:element minOccurs="0" name="TotalOtrosTributos" type="xs:decimal" />
+      <xs:element minOccurs="0" name="TotalVenta" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DocumentoElectronico" nillable="true" type="tns:DocumentoElectronico" />
+  <xs:complexType name="ArrayOfDatoAdicional">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DatoAdicional" nillable="true" type="tns:DatoAdicional" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDatoAdicional" nillable="true" type="tns:ArrayOfDatoAdicional" />
+  <xs:complexType name="DatoAdicional">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Contenido" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DatoAdicional" nillable="true" type="tns:DatoAdicional" />
+  <xs:complexType name="DatosGuia">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CodigoAutorizacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DireccionDestino" nillable="true" type="tns:Contribuyente" />
+      <xs:element minOccurs="0" name="DireccionOrigen" nillable="true" type="tns:Contribuyente" />
+      <xs:element minOccurs="0" name="MarcaVehiculo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ModoTransporte" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombreTransportista" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NroLicenciaConducir" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PesoBruto" type="xs:decimal" />
+      <xs:element minOccurs="0" name="PlacaVehiculo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="RucTransportista" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoDocTransportista" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UnidadMedida" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DatosGuia" nillable="true" type="tns:DatosGuia" />
+  <xs:complexType name="Contribuyente">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Departamento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Direccion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Distrito" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombreComercial" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombreLegal" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NroDocumento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Provincia" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoDocumento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Ubigeo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Urbanizacion" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Contribuyente" nillable="true" type="tns:Contribuyente" />
+  <xs:complexType name="ArrayOfDiscrepancia">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Discrepancia" nillable="true" type="tns:Discrepancia" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDiscrepancia" nillable="true" type="tns:ArrayOfDiscrepancia" />
+  <xs:complexType name="Discrepancia">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NroReferencia" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Tipo" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Discrepancia" nillable="true" type="tns:Discrepancia" />
+  <xs:complexType name="ArrayOfDetalleDocumento">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DetalleDocumento" nillable="true" type="tns:DetalleDocumento" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDetalleDocumento" nillable="true" type="tns:ArrayOfDetalleDocumento" />
+  <xs:complexType name="DetalleDocumento">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cantidad" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CodigoItem" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Descuento" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Impuesto" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ImpuestoSelectivo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="OtroImpuesto" type="xs:decimal" />
+      <xs:element minOccurs="0" name="PrecioReferencial" type="xs:decimal" />
+      <xs:element minOccurs="0" name="PrecioUnitario" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Suma" type="xs:decimal" />
+      <xs:element minOccurs="0" name="TipoImpuesto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoPrecio" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TotalVenta" type="xs:decimal" />
+      <xs:element minOccurs="0" name="UnidadMedida" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DetalleDocumento" nillable="true" type="tns:DetalleDocumento" />
+  <xs:complexType name="ArrayOfDocumentoRelacionado">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DocumentoRelacionado" nillable="true" type="tns:DocumentoRelacionado" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDocumentoRelacionado" nillable="true" type="tns:ArrayOfDocumentoRelacionado" />
+  <xs:complexType name="DocumentoRelacionado">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="NroDocumento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoDocumento" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DocumentoRelacionado" nillable="true" type="tns:DocumentoRelacionado" />
+  <xs:complexType name="ComunicacionBaja">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DocumentoResumen">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Bajas" nillable="true" type="tns:ArrayOfDocumentoBaja" />
+          <xs:element minOccurs="0" name="RutaXML" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ComunicacionBaja" nillable="true" type="tns:ComunicacionBaja" />
+  <xs:complexType name="DocumentoResumen">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Emisor" nillable="true" type="tns:Contribuyente" />
+      <xs:element minOccurs="0" name="FechaEmision" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaReferencia" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdDocumento" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DocumentoResumen" nillable="true" type="tns:DocumentoResumen" />
+  <xs:complexType name="ArrayOfDocumentoBaja">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DocumentoBaja" nillable="true" type="tns:DocumentoBaja" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDocumentoBaja" nillable="true" type="tns:ArrayOfDocumentoBaja" />
+  <xs:complexType name="DocumentoBaja">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DocumentoResumenDetalle">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Correlativo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MotivoBaja" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="DocumentoBaja" nillable="true" type="tns:DocumentoBaja" />
+  <xs:complexType name="DocumentoResumenDetalle">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Serie" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoDocumento" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DocumentoResumenDetalle" nillable="true" type="tns:DocumentoResumenDetalle" />
+  <xs:complexType name="ResumenDiarioNuevo">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DocumentoResumen">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Resumenes" nillable="true" type="tns:ArrayOfGrupoResumenNuevo" />
+          <xs:element minOccurs="0" name="RutaXML" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ResumenDiarioNuevo" nillable="true" type="tns:ResumenDiarioNuevo" />
+  <xs:complexType name="ArrayOfGrupoResumenNuevo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="GrupoResumenNuevo" nillable="true" type="tns:GrupoResumenNuevo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfGrupoResumenNuevo" nillable="true" type="tns:ArrayOfGrupoResumenNuevo" />
+  <xs:complexType name="GrupoResumenNuevo">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:GrupoResumen">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodigoEstadoItem" type="xs:int" />
+          <xs:element minOccurs="0" name="DocumentoRelacionado" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IdDocumento" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="NroDocumentoReceptor" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TipoDocumentoReceptor" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TipoDocumentoRelacionado" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="GrupoResumenNuevo" nillable="true" type="tns:GrupoResumenNuevo" />
+  <xs:complexType name="GrupoResumen">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DocumentoResumenDetalle">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CorrelativoFin" type="xs:int" />
+          <xs:element minOccurs="0" name="CorrelativoInicio" type="xs:int" />
+          <xs:element minOccurs="0" name="Exoneradas" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Exportacion" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Gratuitas" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Gravadas" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Inafectas" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Moneda" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TotalDescuentos" type="xs:decimal" />
+          <xs:element minOccurs="0" name="TotalIgv" type="xs:decimal" />
+          <xs:element minOccurs="0" name="TotalIsc" type="xs:decimal" />
+          <xs:element minOccurs="0" name="TotalOtrosImpuestos" type="xs:decimal" />
+          <xs:element minOccurs="0" name="TotalVenta" type="xs:decimal" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="GrupoResumen" nillable="true" type="tns:GrupoResumen" />
+</xs:schema>

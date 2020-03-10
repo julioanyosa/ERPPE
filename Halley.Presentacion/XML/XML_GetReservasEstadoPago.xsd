@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetReservasEstadoPago"
+    targetNamespace="http://tempuri.org/XML_GetReservasEstadoPago.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XML_GetReservasEstadoPago.xsd"
+    xmlns:mstns="http://tempuri.org/XML_GetReservasEstadoPago.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="DetalleComprobante">
+    <xs:complexType>
+      <xs:attribute name="AudCrea" type="xs:dateTime" />
+      <xs:attribute name="NumComprobante" type="xs:string" />
+      <xs:attribute name="NomTipoComprobante" type="xs:string" />
+      <xs:attribute name="ProductoID" type="xs:string" />
+      <xs:attribute name="Alias" type="xs:string" />
+      <xs:attribute name="UnidadMedidaID" type="xs:string" />
+      <xs:attribute name="RazonSocial" type="xs:string" />
+      <xs:attribute name="Cantidad" type="xs:decimal" />
+      <xs:attribute name="TotalComprobante" type="xs:decimal" />
+      <xs:attribute name="NomEstado" type="xs:string" />
+      <xs:attribute name="Pagado" type="xs:decimal" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

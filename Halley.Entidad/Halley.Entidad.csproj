@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8848EF10-FA03-463E-9499-C9903ECB4052}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Halley.Entidad</RootNamespace>
+    <AssemblyName>Halley.Entidad</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Almacen\E_TipoDocumento.cs" />
+    <Compile Include="Almacen\E_Operacion.cs" />
+    <Compile Include="Almacen\E_Movimiento.cs" />
+    <Compile Include="Almacen\E_Kardex.cs" />
+    <Compile Include="Compras\E_OrdenCompra.cs" />
+    <Compile Include="Empresa\E_Empresa.cs" />
+    <Compile Include="Empresa\E_Generico.cs" />
+    <Compile Include="Empresa\E_Marca.cs" />
+    <Compile Include="Empresa\E_Envase.cs" />
+    <Compile Include="Empresa\E_Familia.cs" />
+    <Compile Include="Almacen\E_GuiaCompraMaiz.cs" />
+    <Compile Include="Almacen\E_GuiaRemision.cs" />
+    <Compile Include="Almacen\E_GuiaTransporte.cs" />
+    <Compile Include="Almacen\E_HojaDespacho.cs" />
+    <Compile Include="Empresa\E_Presentacion.cs" />
+    <Compile Include="Almacen\E_Producto.cs" />
+    <Compile Include="Empresa\E_Producto.cs" />
+    <Compile Include="Empresa\E_Sede.cs" />
+    <Compile Include="Empresa\E_Subfamilia.cs" />
+    <Compile Include="Almacen\E_UnidadMedida.cs" />
+    <Compile Include="Compras\E_Proveedor.cs" />
+    <Compile Include="Empresa\E_UnidadMedida.cs" />
+    <Compile Include="Empresa\E_Chofer.cs" />
+    <Compile Include="Empresa\E_Vehiculo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Users\E_Perfil.cs" />
+    <Compile Include="Users\E_Usuario.cs" />
+    <Compile Include="Ventas\E_ValeConsumo.cs" />
+    <Compile Include="Ventas\E_ListaPrecio.cs" />
+    <Compile Include="Ventas\E_NotaCredito.cs" />
+    <Compile Include="Ventas\E_NotaIngreso.cs" />
+    <Compile Include="Ventas\E_Pago.cs" />
+    <Compile Include="Ventas\E_Cliente.cs" />
+    <Compile Include="Ventas\E_Comprobante.cs" />
+    <Compile Include="Ventas\E_Credito.cs" />
+    <Compile Include="Ventas\E_OrdenPedido.cs" />
+    <Compile Include="Ventas\E_Vale.cs" />
+    <Compile Include="Ventas\RespuestaComunConArchivo2.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

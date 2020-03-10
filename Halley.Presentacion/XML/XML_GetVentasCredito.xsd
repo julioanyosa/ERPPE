@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetVentasCredito" targetNamespace="http://tempuri.org/XML_GetVentasCredito.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetVentasCredito.xsd" xmlns:mstns="http://tempuri.org/XML_GetVentasCredito.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetVentasCredito">
+    <xs:complexType>
+      <xs:attribute name="NumComprobante" type="xs:string" />
+      <xs:attribute name="TipoComprobanteID" type="xs:int" />
+      <xs:attribute name="NomTipoComprobante" type="xs:string" />
+      <xs:attribute name="NroDocumento" type="xs:string" />
+      <xs:attribute name="RazonSocial" type="xs:string" />
+      <xs:attribute name="TOTAL" type="xs:decimal" />
+      <xs:attribute name="EstadoID" type="xs:int" />
+      <xs:attribute name="NomEstado" type="xs:string" />
+      <xs:attribute name="MONTOPAGADO" type="xs:decimal" />
+      <xs:attribute name="NomSede" type="xs:string" />
+      <xs:attribute name="CAJERO" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

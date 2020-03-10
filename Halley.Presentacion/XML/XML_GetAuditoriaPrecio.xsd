@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetAuditoriaPrecio"
+    targetNamespace="http://tempuri.org/XML_GetAuditoriaPrecio.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XML_GetComprobante.xsd"
+    xmlns:mstns="http://tempuri.org/XML_GetAuditoriaPrecio.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="AuditoriaPrecio">
+    <xs:complexType>
+      
+      <xs:attribute name="HistoricoPrecioID" type="xs:int" />
+      <xs:attribute name="ProductoID" type="xs:string" />
+      <xs:attribute name="Alias" type="xs:string" />
+      <xs:attribute name="PrecioUnitario" type="xs:decimal" />
+      <xs:attribute name="AudCrea" type="xs:dateTime" />
+      <xs:attribute name="Usuario" type="xs:string" />
+      
+
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

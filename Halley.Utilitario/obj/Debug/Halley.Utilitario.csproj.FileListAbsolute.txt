@@ -1,0 +1,75 @@
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\Halley.Utilitario.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\Halley.Utilitario.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\Halley.Utilitario.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\Halley.Utilitario.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\bin\Debug\Halley.Utilitario.dll
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\bin\Debug\Halley.Utilitario.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\obj\Debug\ResolveAssemblyReference.cache
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
+G:\ERP_Halley\ERP_Halley\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb
+G:\ERP_HALLEY\Halley.Utilitario\bin\Debug\Halley.Utilitario.dll
+G:\ERP_HALLEY\Halley.Utilitario\bin\Debug\Halley.Utilitario.pdb
+G:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.dll
+G:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.dll
+G:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+G:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.xml
+G:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
+G:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+G:\ERP_HALLEY\Halley.Utilitario\obj\Debug\ResolveAssemblyReference.cache
+G:\ERP_HALLEY\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
+G:\ERP_HALLEY\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb
+D:\ERP_HALLEY\Halley.Utilitario\bin\Debug\Halley.Utilitario.dll
+D:\ERP_HALLEY\Halley.Utilitario\bin\Debug\Halley.Utilitario.pdb
+D:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.dll
+D:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.dll
+D:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+D:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.xml
+D:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
+D:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+D:\ERP_HALLEY\Halley.Utilitario\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP_HALLEY\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
+D:\ERP_HALLEY\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb
+E:\ERP_HALLEY\Halley.Utilitario\bin\Debug\Halley.Utilitario.dll
+E:\ERP_HALLEY\Halley.Utilitario\bin\Debug\Halley.Utilitario.pdb
+E:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.dll
+E:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.dll
+E:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+E:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.xml
+E:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
+E:\ERP_HALLEY\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+E:\ERP_HALLEY\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
+E:\ERP_HALLEY\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb
+E:\PERUAN DE ENVASES\Halley.Utilitario\bin\Debug\Halley.Utilitario.dll
+E:\PERUAN DE ENVASES\Halley.Utilitario\bin\Debug\Halley.Utilitario.pdb
+E:\PERUAN DE ENVASES\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.dll
+E:\PERUAN DE ENVASES\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.dll
+E:\PERUAN DE ENVASES\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+E:\PERUAN DE ENVASES\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.xml
+E:\PERUAN DE ENVASES\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
+E:\PERUAN DE ENVASES\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+E:\PERUAN DE ENVASES\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
+E:\PERUAN DE ENVASES\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb

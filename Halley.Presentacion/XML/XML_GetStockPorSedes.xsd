@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetStockPorSedes"
+    targetNamespace="http://tempuri.org/XML_GetStockPorSedes.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XML_GetStockPorSedes.xsd"
+    xmlns:mstns="http://tempuri.org/XML_GetStockPorSedes.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="StockPorSedes">
+    <xs:complexType>
+      <xs:attribute name="ProductoID" type="xs:string" />
+      <xs:attribute name="NomProducto" type="xs:string" />
+      <xs:attribute name="Alias" type="xs:string" />
+      <xs:attribute name="UnidadMedidaID" type="xs:string" />
+      <xs:attribute name="NomMarca" type="xs:string" />
+      <xs:attribute name="StockActual" type="xs:decimal" />
+      <xs:attribute name="StockDisponible" type="xs:decimal" />
+      <xs:attribute name="Almacen" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetDetalleVentasComprobante"
+    targetNamespace="http://tempuri.org/XML_GetDetalleVentasComprobante.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XML_GetDetalleVentasComprobante.xsd"
+    xmlns:mstns="http://tempuri.org/XML_GetDetalleVentasComprobante.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="Comprobante">
+    <xs:complexType>
+      <xs:attribute name="AudCrea" type="xs:dateTime" />
+      <xs:attribute name="NumComprobante" type="xs:string" />
+      <xs:attribute name="NomTipoComprobante" type="xs:string" />
+      <xs:attribute name="TotalComprobante" type="xs:decimal" />
+      <xs:attribute name="Pagado" type="xs:decimal" />
+      <xs:attribute name="NomEstado" type="xs:string" />
+      <xs:attribute name="NomFormaPago" type="xs:string" />
+      <xs:attribute name="FlgEst" type="xs:boolean" />
+      <xs:attribute name="Ingreso" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Usuario">
+    <xs:complexType>
+      <xs:attribute name="Descripcion" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="RUC" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+      <xs:attribute name="DomicilioFiscal" type="xs:string" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

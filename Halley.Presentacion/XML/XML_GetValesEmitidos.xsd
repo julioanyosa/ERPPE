@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetValesConsumo" targetNamespace="http://tempuri.org/XML_GetKardex.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetKardex.xsd" xmlns:mstns="http://tempuri.org/GetKardex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetValesConsumo">
+    <xs:complexType>
+      <xs:attribute name="Numvale" type="xs:string" />
+      <xs:attribute name="FechaVencimiento" type="xs:date" />
+      <xs:attribute name="FechaEmision" type="xs:dateTime" />
+      <xs:attribute name="Monto" type="xs:decimal" />
+      <xs:attribute name="NroDocumento" type="xs:string" />
+      <xs:attribute name="Cliente" type="xs:string" />
+      <xs:attribute name="NomTipoComprobante" type="xs:string" />
+      <xs:attribute name="NumComprobante" type="xs:string" />
+      <xs:attribute name="Cajero" type="xs:string" />
+      <xs:attribute name="NomSede" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="RUC" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+      <xs:attribute name="DomicilioFiscal" type="xs:string" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

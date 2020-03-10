@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WCF_FE" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WCF_FE" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="RespuestaComunConArchivo2">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CodigoRespuesta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Exito" type="xs:boolean" />
+      <xs:element minOccurs="0" name="MensajeError" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MensajeRespuesta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombreArchivo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NroTicket" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Pila" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TramaZipCdr" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RespuestaComunConArchivo2" nillable="true" type="tns:RespuestaComunConArchivo2" />
+</xs:schema>

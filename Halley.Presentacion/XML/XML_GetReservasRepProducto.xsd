@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetReservasRepProducto" targetNamespace="http://tempuri.org/XML_GetReservasRepProducto.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetReservasRepProducto.xsd" xmlns:mstns="http://tempuri.org/XML_GetReservasRepProducto.xsd"  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetReservasRepProducto">
+    <xs:complexType>
+      <xs:attribute name="RazonSocial" type="xs:string" />
+      <xs:attribute name="NroDocumento" type="xs:string" />
+      <xs:attribute name="Cantidad" type="xs:decimal" />
+      <xs:attribute name="CantidadDespachada" type="xs:decimal" />
+      <xs:attribute name="NomEstado" type="xs:string" />
+      <xs:attribute name="FechaReserva" type="xs:dateTime" />
+      <xs:attribute name="AudCrea" type="xs:dateTime" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

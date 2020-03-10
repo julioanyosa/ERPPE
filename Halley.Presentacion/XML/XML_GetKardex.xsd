@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetKardex" targetNamespace="http://tempuri.org/XML_GetKardex.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetKardex.xsd" xmlns:mstns="http://tempuri.org/GetKardex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetKardex">
+    <xs:complexType>
+      <xs:attribute name="ProductoID" type="xs:string" />
+      <xs:attribute name="Producto" type="xs:string" />
+      <xs:attribute name="UM" type="xs:string" />
+      <xs:attribute name="Fecha" type="xs:string" />
+      <xs:attribute name="Tipo" type="xs:string" />
+      <xs:attribute name="Serie" type="xs:string" />
+      <xs:attribute name="Numero" type="xs:string" />
+      <xs:attribute name="Operacion" type="xs:string" />
+      <xs:attribute name="ECantidad" type="xs:decimal" />
+      <xs:attribute name="ECostoUnitario" type="xs:decimal" />
+      <xs:attribute name="ECostoTotal" type="xs:decimal" />
+      <xs:attribute name="SCantidad" type="xs:decimal" />
+      <xs:attribute name="SCostoUnitario" type="xs:decimal" />
+      <xs:attribute name="SCostoTotal" type="xs:decimal" />
+      <xs:attribute name="FCantidad" type="xs:decimal" />
+      <xs:attribute name="FCostoUnitario" type="xs:decimal" />
+      <xs:attribute name="FCostoTotal" type="xs:decimal" />
+      <xs:attribute name="TipoExistencia" type="xs:string" />
+      
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="RUC" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+      <xs:attribute name="DomicilioFiscal" type="xs:string" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

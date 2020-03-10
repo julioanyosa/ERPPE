@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_RepDiferencial" targetNamespace="http://tempuri.org/XMLVentas.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XMLVentas.xsd" xmlns:mstns="http://tempuri.org/XMLVentas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="RepDiferencial">
+    <xs:complexType>
+      <xs:attribute name="ProductoID" type="xs:string" />
+      <xs:attribute name="NomProducto" type="xs:string" />      
+      <xs:attribute name="Cantidad" type="xs:string" />
+      <xs:attribute name="Diferencial" type="xs:string" />
+      <xs:attribute name="TotalPagado" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

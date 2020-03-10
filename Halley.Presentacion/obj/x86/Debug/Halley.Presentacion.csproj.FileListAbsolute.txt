@@ -1,0 +1,1360 @@
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AccesMenu.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmPerfil.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmUsuario.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmDespachos.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmAlmacenes.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Balanza.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoVenta.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Despacho.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoInterno.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoPollo.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmGuias.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmTransferenciaPorDesperdicio.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoPorConsumo.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoVenta.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Transformacion.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespachocs.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.PagoLiquidacion.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProveedor.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmFamilia.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmGenerico.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmSubFamilia.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmPresentacion.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmMarca.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmEnvase.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmUnidadMedida.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProductos.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Recepcion.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Requemientos.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.SeleccionarMarcas.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoMaiz.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmGuiaCompraMaiz.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemisionPeso.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemision.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaTransporte.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespacho.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.OpeRep_GuiaRemision.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Kardex.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Producto.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.RequerimientosEstado.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Stock.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Com_Cotizacion.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.FrmCompra.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSedes.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoChofer.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSerieGuias.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoVehiculos.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.ModificarPlanProduccion.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.frmSplash.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.IDE.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Login.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion4.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.UITemplateAccess.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.MantenimientoPrecios.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.Credito.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.NotaCredito.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmNotaCredito.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPago.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmReserva.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmCliente.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmListaProductos.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmPago.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.MantenimientoPrecios.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentas.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentasPorProducto.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmConfigurarImpresora.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoComprobante.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmPagosMultiples.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.Pago.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepComprobante.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepEntrega.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepGeneraVales.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepProducto.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepStock.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentas.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReservasPorPagar.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasSede.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteVentas.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptReservasFecha.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptPagos.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVendedor.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UseCliente.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Ventas.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentas.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentasDiferidas.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListComprobante.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListEntrega.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListGenerarVales.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListOrdenPedido.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListPeso.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListVales.resources
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.licenses
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.config
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Presentacion.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Excel.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Preview.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Accesos.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaDatos.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaLogica.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Configuracion.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Entidad.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Utilitario.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Accesos.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaDatos.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaLogica.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Configuracion.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Entidad.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Utilitario.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Excel.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Preview.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.FrmPreciosBuscados.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.config
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Presentacion.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Excel.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Preview.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Accesos.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaDatos.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaLogica.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Configuracion.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Entidad.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Utilitario.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Accesos.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaDatos.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaLogica.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Configuracion.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Entidad.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Utilitario.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Excel.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Preview.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AccesMenu.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmPerfil.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmUsuario.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmDespachos.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmAlmacenes.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Balanza.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoVenta.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Despacho.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoInterno.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoPollo.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmGuias.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmTransferenciaPorDesperdicio.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoPorConsumo.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoVenta.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Transformacion.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespachocs.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.PagoLiquidacion.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProveedor.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmFamilia.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmGenerico.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmSubFamilia.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmPresentacion.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmMarca.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmEnvase.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmUnidadMedida.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProductos.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Recepcion.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Requemientos.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.SeleccionarMarcas.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoMaiz.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmGuiaCompraMaiz.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemisionPeso.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemision.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaTransporte.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespacho.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.OpeRep_GuiaRemision.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Kardex.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Producto.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.RequerimientosEstado.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Stock.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Com_Cotizacion.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.FrmCompra.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSedes.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoChofer.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSerieGuias.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoVehiculos.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.ModificarPlanProduccion.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.frmSplash.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.IDE.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Login.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion4.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.UITemplateAccess.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.FrmPreciosBuscados.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.MantenimientoPrecios.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.Credito.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.NotaCredito.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmNotaCredito.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPago.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmReserva.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmCliente.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmListaProductos.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmPago.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.MantenimientoPrecios.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentas.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentasPorProducto.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmConfigurarImpresora.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoComprobante.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmPagosMultiples.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.Pago.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepComprobante.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepEntrega.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepGeneraVales.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepProducto.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepStock.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentas.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReservasPorPagar.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasSede.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteVentas.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptReservasFecha.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptPagos.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVendedor.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UseCliente.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Ventas.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentas.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentasDiferidas.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListComprobante.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListEntrega.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListGenerarVales.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListOrdenPedido.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListPeso.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListVales.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.licenses
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoSede.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmBuscarComprobante.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmValesConsumo.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.IngresoManualVenta.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentasVavidenhas.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Despachos.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.ProductosPorSede.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Reportes.ComprasMaiz.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepPendientePago.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaCliente.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaExterna.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasPorProducto.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVentasVendedor.resources
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteAnuladoComprobante.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.config
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Presentacion.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Excel.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Preview.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Accesos.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaDatos.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaLogica.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Configuracion.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Entidad.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Utilitario.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Accesos.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaDatos.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.CapaLogica.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Configuracion.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Entidad.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\Halley.Utilitario.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Excel.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.C1Preview.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AccesMenu.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmPerfil.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmUsuario.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmDespachos.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmAlmacenes.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Balanza.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoVenta.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Despacho.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoInterno.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoPollo.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmGuias.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmTransferenciaPorDesperdicio.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoPorConsumo.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoVenta.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Transformacion.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Despachos.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespachocs.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.ProductosPorSede.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.PagoLiquidacion.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Reportes.ComprasMaiz.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProveedor.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmFamilia.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmGenerico.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmSubFamilia.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmPresentacion.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmMarca.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmEnvase.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmUnidadMedida.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProductos.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Recepcion.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Requemientos.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.SeleccionarMarcas.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoMaiz.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmGuiaCompraMaiz.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemisionPeso.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemision.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaTransporte.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespacho.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.OpeRep_GuiaRemision.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Kardex.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Producto.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.RequerimientosEstado.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Stock.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Com_Cotizacion.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.FrmCompra.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSedes.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoChofer.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSerieGuias.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoVehiculos.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.ModificarPlanProduccion.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.frmSplash.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.IDE.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Login.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion4.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Properties.Resources.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.UITemplateAccess.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.FrmPreciosBuscados.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.MantenimientoPrecios.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmBoucher.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.IngresoManualVenta.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.Credito.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.NotaCredito.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmNotaCredito.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPago.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmReserva.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmCliente.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmListaProductos.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmPago.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.MantenimientoPrecios.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentas.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentasPorProducto.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmValesConsumo.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmBuscarComprobante.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoSede.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmConfigurarImpresora.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoComprobante.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmPagosMultiples.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.Pago.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepComprobante.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepEntrega.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepGeneraVales.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepProducto.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepStock.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentas.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentasVavidenhas.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepPendientePago.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaCliente.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaExterna.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasPorProducto.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVentasVendedor.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteAnuladoComprobante.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReservasPorPagar.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasSede.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteVentas.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptReservasFecha.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptPagos.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVendedor.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UseCliente.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Ventas.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentas.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentasDiferidas.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListComprobante.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListEntrega.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListGenerarVales.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListOrdenPedido.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListPeso.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListVales.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.licenses
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPesos.resources
+G:\ERP_Halley\ERP_Halley\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UCVentasxPeso.resources
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.config
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.pdb
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.manifest
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Presentacion.application
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Presentacion.pdb
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.C1Excel.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.C1Preview.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Accesos.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.CapaDatos.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.CapaLogica.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Configuracion.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Entidad.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Utilitario.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.dll
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Accesos.pdb
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.CapaDatos.pdb
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.CapaLogica.pdb
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Configuracion.pdb
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Entidad.pdb
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\Halley.Utilitario.pdb
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.C1Excel.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.C1Preview.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.xml
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AccesMenu.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmPerfil.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmUsuario.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.CierreMensual.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmTipoDocumento.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmMovimiento.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmOperacion.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmBuscarOC.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmDespachos.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmAlmacenes.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Balanza.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoVenta.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Despacho.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoInterno.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoPollo.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmGuias.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmIngresarOperacion.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmTransferenciaPorDesperdicio.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoPorConsumo.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Transformacion.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Despachos.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Operaciones.RegistrarCuadre.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Reportes.ConsolidadoVentas.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmCierre.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.FrmCierre.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespachocs.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmKardexValorizado.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.ProductosPorSede.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Auditoria.Ventas.AuditoriaPrecio.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.PagoLiquidacion.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Reportes.ComprasMaiz.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.Contabilidad.AgruparProductos.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.Empresa.MantenimientoEmpresa.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProveedor.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmFamilia.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmGenerico.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmSubFamilia.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmPresentacion.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmMarca.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmEnvase.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmUnidadMedida.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProductos.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Recepcion.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Requemientos.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.SeleccionarMarcas.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoMaiz.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmGuiaCompraMaiz.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemisionPeso.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemision.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaTransporte.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespacho.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Kardex.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Producto.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.RequerimientosEstado.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Stock.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Com_Cotizacion.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.FrmCompra.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSedes.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoChofer.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSerieGuias.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoVehiculos.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.ModificarPlanProduccion.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.frmSplash.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.IDE.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Login.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Properties.Resources.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.UITemplateAccess.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.FrmPreciosBuscados.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.MantenimientoPrecios.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmAdelantos.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmAperturaCaja.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmClientes.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmEgreso.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPesos.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVales.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UCVentasxPeso.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmBoucher.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.IngresoManualVenta.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.Credito.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.NotaCredito.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmNotaCredito.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPago.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmReserva.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmCliente.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmListaProductos.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmPago.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.MantenimientoPrecios.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentas.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentasPorProducto.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmValesConsumo.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmBuscarComprobante.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoSede.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmConfigurarImpresora.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoComprobante.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmPagosMultiples.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.Pago.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepComprobante.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepEntrega.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepGeneraVales.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepProducto.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepStock.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentas.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentasVavidenhas.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepPendientePago.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaCliente.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaExterna.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasPorProducto.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVentasVendedor.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteAnuladoComprobante.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReservasPorPagar.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasSede.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteVentas.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptReservasFecha.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptPagos.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVendedor.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UseCliente.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Ventas.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentas.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentasDiferidas.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListComprobante.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListEntrega.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListGenerarVales.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListOrdenPedido.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListPeso.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListVales.resources
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.licenses
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.TrustInfo.xml
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.manifest
+G:\VENTAS_POLLO\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.application
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.config
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.manifest
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.application
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.pdb
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Excel.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Preview.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Accesos.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaDatos.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaLogica.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Configuracion.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Entidad.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Utilitario.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.dll
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Accesos.pdb
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaDatos.pdb
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaLogica.pdb
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Configuracion.pdb
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Entidad.pdb
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Utilitario.pdb
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Excel.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Preview.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.xml
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AccesMenu.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmPerfil.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmUsuario.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.CierreMensual.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmTipoDocumento.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmMovimiento.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmOperacion.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmBuscarOC.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmDespachos.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmAlmacenes.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Balanza.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoVenta.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Despacho.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoInterno.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoPollo.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmGuias.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmIngresarOperacion.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmTransferenciaPorDesperdicio.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoPorConsumo.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Transformacion.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Despachos.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Operaciones.RegistrarCuadre.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Reportes.ConsolidadoVentas.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmCierre.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.FrmCierre.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespachocs.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmKardexValorizado.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.ProductosPorSede.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Auditoria.Ventas.AuditoriaPrecio.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.PagoLiquidacion.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Reportes.ComprasMaiz.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.Contabilidad.AgruparProductos.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.Empresa.MantenimientoEmpresa.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProveedor.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmFamilia.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmGenerico.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmSubFamilia.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmPresentacion.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmMarca.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmEnvase.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmUnidadMedida.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProductos.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Recepcion.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Requemientos.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.SeleccionarMarcas.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoMaiz.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmGuiaCompraMaiz.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemisionPeso.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemision.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaTransporte.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespacho.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Kardex.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Producto.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.RequerimientosEstado.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Stock.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Com_Cotizacion.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.FrmCompra.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSedes.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoChofer.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSerieGuias.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoVehiculos.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.ModificarPlanProduccion.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.frmSplash.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.IDE.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Login.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Properties.Resources.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.UITemplateAccess.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.FrmPreciosBuscados.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.MantenimientoPrecios.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmAdelantos.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmAperturaCaja.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmClientes.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmEgreso.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPesos.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVales.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UCVentasxPeso.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmBoucher.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.IngresoManualVenta.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.Credito.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.NotaCredito.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmNotaCredito.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPago.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmReserva.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmCliente.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmListaProductos.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmPago.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.MantenimientoPrecios.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentas.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentasPorProducto.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmValesConsumo.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmBuscarComprobante.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoSede.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmConfigurarImpresora.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoComprobante.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmPagosMultiples.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.Pago.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepComprobante.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepEntrega.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepGeneraVales.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepProducto.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepStock.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentas.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentasVavidenhas.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepPendientePago.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaCliente.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaExterna.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasPorProducto.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVentasVendedor.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteAnuladoComprobante.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReservasPorPagar.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasSede.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteVentas.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptReservasFecha.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptPagos.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVendedor.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UseCliente.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Ventas.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentas.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentasDiferidas.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListComprobante.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListEntrega.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListGenerarVales.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListOrdenPedido.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListPeso.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListVales.resources
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.licenses
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.TrustInfo.xml
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.manifest
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.application
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe
+G:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.pdb
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.config
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.manifest
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.application
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.pdb
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Preview.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Accesos.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaDatos.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaLogica.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Configuracion.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Entidad.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Utilitario.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.dll
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Accesos.pdb
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaDatos.pdb
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaLogica.pdb
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Configuracion.pdb
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Entidad.pdb
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Utilitario.pdb
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Preview.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.xml
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AccesMenu.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmPerfil.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmUsuario.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.CierreMensual.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmTipoDocumento.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmMovimiento.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmOperacion.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmBuscarOC.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmDespachos.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmAlmacenes.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Balanza.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoVenta.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Despacho.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoInterno.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoPollo.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmGuias.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmIngresarOperacion.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmTransferenciaPorDesperdicio.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoPorConsumo.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Transformacion.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Despachos.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.VentasPorCliente.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Operaciones.RegistrarCuadre.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Reportes.ConsolidadoVentas.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmCierre.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.FrmCierre.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespachocs.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmKardexValorizado.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.ProductosPorSede.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Auditoria.Ventas.AuditoriaPrecio.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.PagoLiquidacion.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Reportes.ComprasMaiz.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.Contabilidad.AgruparProductos.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.Empresa.MantenimientoEmpresa.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProveedor.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmFamilia.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmGenerico.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmSubFamilia.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmPresentacion.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmMarca.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmEnvase.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmUnidadMedida.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProductos.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Recepcion.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Requemientos.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.SeleccionarMarcas.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoMaiz.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmGuiaCompraMaiz.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemisionPeso.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemision.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaTransporte.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespacho.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Kardex.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Producto.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.RequerimientosEstado.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Stock.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Com_Cotizacion.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.FrmCompra.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSedes.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoChofer.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSerieGuias.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoVehiculos.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.ModificarPlanProduccion.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.frmSplash.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.IDE.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Login.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Properties.Resources.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.UITemplateAccess.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.FrmPreciosBuscados.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.MantenimientoPrecios.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmAdelantos.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmAperturaCaja.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmClientes.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmEgreso.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPesos.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVales.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UCVentasxPeso.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmBoucher.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.IngresoManualVenta.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.Credito.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.NotaCredito.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmNotaCredito.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPago.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmReserva.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmCliente.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmListaProductos.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmPago.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.MantenimientoPrecios.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentas.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentasPorProducto.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmValesConsumo.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmBuscarComprobante.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoSede.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmConfigurarImpresora.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoComprobante.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmPagosMultiples.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.Pago.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepComprobante.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepEntrega.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepGeneraVales.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepProducto.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepStock.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentas.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentasVavidenhas.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepPendientePago.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaCliente.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaExterna.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasPorProducto.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVentasVendedor.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteAnuladoComprobante.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReservasPorPagar.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasSede.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteVentas.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptReservasFecha.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptPagos.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVendedor.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UseCliente.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Ventas.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentas.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentasDiferidas.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListComprobante.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListGenerarVales.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListOrdenPedido.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListPeso.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListVales.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListEntrega.resources
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.licenses
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.TrustInfo.xml
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.manifest
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.application
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe
+D:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.pdb
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.csprojResolveAssemblyReference.cache
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AccesMenu.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmPerfil.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmUsuario.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.CierreMensual.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmTipoDocumento.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmMovimiento.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmOperacion.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmBuscarOC.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmDespachos.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmAlmacenes.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Balanza.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoVenta.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Despacho.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoInterno.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoPollo.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmGuias.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmIngresarOperacion.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmTransferenciaPorDesperdicio.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoPorConsumo.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Transformacion.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Despachos.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.VentasPorCliente.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Operaciones.RegistrarCuadre.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Reportes.ConsolidadoVentas.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmCierre.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.FrmCierre.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespachocs.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmKardexValorizado.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.ProductosPorSede.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Auditoria.Ventas.AuditoriaPrecio.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.PagoLiquidacion.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Reportes.ComprasMaiz.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.Contabilidad.AgruparProductos.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.Empresa.MantenimientoEmpresa.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProveedor.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmFamilia.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmGenerico.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmSubFamilia.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmPresentacion.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmMarca.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmEnvase.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmUnidadMedida.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProductos.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Recepcion.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Requemientos.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.SeleccionarMarcas.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoMaiz.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmGuiaCompraMaiz.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemisionPeso.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemision.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaTransporte.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespacho.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Kardex.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Producto.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.RequerimientosEstado.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Stock.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Com_Cotizacion.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.FrmCompra.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSedes.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoChofer.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSerieGuias.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoVehiculos.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.ModificarPlanProduccion.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.frmSplash.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.IDE.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Login.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Properties.Resources.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.UITemplateAccess.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.FrmPreciosBuscados.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.MantenimientoPrecios.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmAdelantos.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmAperturaCaja.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmClientes.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmEgreso.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPesos.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVales.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmBoucher.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.IngresoManualVenta.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.Credito.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.NotaCredito.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmNotaCredito.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPago.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmReserva.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmCliente.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmPago.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.MantenimientoPrecios.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentas.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentasPorProducto.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmValesConsumo.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmBuscarComprobante.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoSede.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmConfigurarImpresora.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoComprobante.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmPagosMultiples.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.Pago.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepComprobante.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepEntrega.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepGeneraVales.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepProducto.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepStock.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentas.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentasVavidenhas.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepPendientePago.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaCliente.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaExterna.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasPorProducto.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVentasVendedor.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteAnuladoComprobante.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReservasPorPagar.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasSede.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteVentas.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptReservasFecha.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptPagos.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVendedor.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UseCliente.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Ventas.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentas.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentasDiferidas.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListGenerarVales.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListOrdenPedido.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListPeso.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListVales.resources
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.csproj.GenerateResource.Cache
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.licenses
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.config
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.manifest
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.application
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Presentacion.pdb
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Preview.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Accesos.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaDatos.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaLogica.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Configuracion.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Entidad.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Utilitario.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.dll
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Accesos.pdb
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaDatos.pdb
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.CapaLogica.pdb
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Configuracion.pdb
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Entidad.pdb
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\Halley.Utilitario.pdb
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.C1Preview.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.xml
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.TrustInfo.xml
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.manifest
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.application
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe
+E:\ERP_HALLEY\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.pdb
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.config
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Presentacion.exe.manifest
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Presentacion.application
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.C1Preview.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Accesos.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.CapaDatos.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.CapaLogica.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Configuracion.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Entidad.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Utilitario.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\thoughtworks.qrcode.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Newtonsoft.Json.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\System.Data.SQLite.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Accesos.pdb
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.CapaDatos.pdb
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.CapaLogica.pdb
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Configuracion.pdb
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Entidad.pdb
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Utilitario.pdb
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.C1Pdf.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.C1Preview.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1BarCode.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Command.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1FlexGrid.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Input.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1List.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Preview.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Ribbon.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Schedule.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1SuperTooltip.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\System.Data.SQLite.pdb
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\C1.Win.C1Chart.2.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.csprojResolveAssemblyReference.cache
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AccesMenu.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmPerfil.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.AdmUsuarios.FrmUsuario.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.CierreMensual.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmTipoDocumento.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmMovimiento.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Contabilidad.FrmOperacion.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmBuscarOC.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmDespachos.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmAlmacenes.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Balanza.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoVenta.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Despacho.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoInterno.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoPollo.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmGuias.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmIngresarOperacion.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.FrmTransferenciaPorDesperdicio.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Ope_DespachoPorConsumo.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Transformacion.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Despachos.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.VentasPorCliente.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Operaciones.AdministrarFacturadorSunat.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Operaciones.AdministrarFacturadorSunatAnterior.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Operaciones.RegistrarCuadre.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Contabilidad.Reportes.ConsolidadoVentas.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmCierre.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.FrmImprimirPuntos.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.FrmCierre.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespachocs.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmKardexValorizado.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.ProductosPorSede.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Auditoria.Ventas.AuditoriaPrecio.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.PagoLiquidacion.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Reportes.ComprasMaiz.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.Contabilidad.AgruparProductos.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.Empresa.MantenimientoEmpresa.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProveedor.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmFamilia.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmGenerico.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmSubFamilia.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmPresentacion.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmMarca.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmEnvase.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmUnidadMedida.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoProductos.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Recepcion.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.Requemientos.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.SeleccionarMarcas.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Operaciones.DespachoMaiz.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmGuiaCompraMaiz.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemisionPeso.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaRemision.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.FrmGuiaTransporte.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.FrmHojaDespacho.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Kardex.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Producto.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.RequerimientosEstado.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Almacen.Reportes.Rep_Stock.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.Com_Cotizacion.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Compras.FrmCompra.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSedes.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoChofer.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoSerieGuias.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.MantenimientoVehiculos.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.ModificarPlanProduccion.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.frmSplash.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.IDE.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Login.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Produccion.PlanDeProduccion.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Properties.Resources.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.UITemplateAccess.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.FrmPreciosBuscados.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.MantenimientoPrecios.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmAdelantos.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmAperturaCaja.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmClientes.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmEgreso.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPesos.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVales.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmBoucher.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.IngresoManualVenta.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.Credito.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Administracion.NotaCredito.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmNotaCredito.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmPago.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmReserva.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Mantenimiento.FrmCliente.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.FrmPago.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.MantenimientoPrecios.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentas.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.VentasTemp.ReporteVentasPorProducto.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmValesConsumo.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmBuscarComprobante.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoSede.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmConfigurarImpresora.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.PagoComprobante.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.FrmPagosMultiples.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Pagos.Pago.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepComprobante.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepEntrega.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepGeneraVales.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepProducto.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepStock.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentas.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.ReporteNavideño.RepVentasVavidenhas.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepPendientePago.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaCliente.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RepVentaExterna.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasPorProducto.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVentasVendedor.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteAnuladoComprobante.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReservasPorPagar.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.VentasSede.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.ReporteVentas.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptReservasFecha.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptPagos.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Reporte.RptVendedor.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.UseCliente.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.Ventas.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentas.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.FrmVentasDiferidas.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListGenerarVales.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListOrdenPedido.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListPeso.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.Ventas.VentasPavo.ListVales.resources
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.csproj.GenerateResource.Cache
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.licenses
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.TrustInfo.xml
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe.manifest
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.application
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.exe
+E:\PERUAN DE ENVASES\Halley.Presentacion\obj\x86\Debug\Halley.Presentacion.pdb
+E:\PERUAN DE ENVASES\Halley.Presentacion\bin\Debug\Halley.Presentacion.pdb

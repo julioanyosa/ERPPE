@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetVentasClienteDetallado" targetNamespace="http://tempuri.org/XML_GetVentasClienteDetallado.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetVentasClienteDetallado.xsd" xmlns:mstns="http://tempuri.org/GetCierreDiario.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetCierreDiario">
+    <xs:complexType>
+      <xs:attribute name="NumComprobante" type="xs:string" />
+      <xs:attribute name="NomTipoComprobante" type="xs:string" />
+      <xs:attribute name="BASE_IMPONIBLE" type="xs:decimal" />
+      <xs:attribute name="TotalICBPER" type="xs:decimal" />
+      <xs:attribute name="IGV" type="xs:decimal" />
+      <xs:attribute name="TOTAL" type="xs:decimal" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="RUC" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+      <xs:attribute name="DomicilioFiscal" type="xs:string" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

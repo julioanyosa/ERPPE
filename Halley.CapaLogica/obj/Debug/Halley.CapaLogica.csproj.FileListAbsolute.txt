@@ -1,0 +1,151 @@
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Configuracion.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Entidad.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Utilitario.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Configuracion.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Entidad.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Utilitario.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.xml
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Configuracion.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Entidad.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Utilitario.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Configuracion.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Entidad.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Utilitario.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.xml
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.pdb
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.pdb
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Configuracion.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Entidad.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Utilitario.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.pdb
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Configuracion.pdb
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Entidad.pdb
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\Halley.Utilitario.pdb
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.xml
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\obj\Debug\ResolveAssemblyReference.cache
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.dll
+G:\ERP_Halley\ERP_Halley\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.pdb
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.dll
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.pdb
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.dll
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Configuracion.dll
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Entidad.dll
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Utilitario.dll
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.dll
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.dll
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.pdb
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Configuracion.pdb
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Entidad.pdb
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Utilitario.pdb
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.xml
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+G:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.xml
+G:\ERP_HALLEY\Halley.CapaLogica\obj\Debug\ResolveAssemblyReference.cache
+G:\ERP_HALLEY\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.dll
+G:\ERP_HALLEY\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.pdb
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.dll
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.pdb
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.dll
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Configuracion.dll
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Entidad.dll
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Utilitario.dll
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.dll
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.dll
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.pdb
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Configuracion.pdb
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Entidad.pdb
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Utilitario.pdb
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.xml
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+D:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.xml
+D:\ERP_HALLEY\Halley.CapaLogica\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP_HALLEY\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.dll
+D:\ERP_HALLEY\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.pdb
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.dll
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.pdb
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.dll
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Configuracion.dll
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Entidad.dll
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Utilitario.dll
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.dll
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.dll
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.pdb
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Configuracion.pdb
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Entidad.pdb
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\Halley.Utilitario.pdb
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.xml
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+E:\ERP_HALLEY\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.xml
+E:\ERP_HALLEY\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.csprojResolveAssemblyReference.cache
+E:\ERP_HALLEY\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.dll
+E:\ERP_HALLEY\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.pdb
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.dll.config
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.pdb
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.Configuracion.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.Entidad.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.Utilitario.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Newtonsoft.Json.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\System.Data.SQLite.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.pdb
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.Configuracion.pdb
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.Entidad.pdb
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\Halley.Utilitario.pdb
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\System.Data.SQLite.pdb
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.xml
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.xml
+E:\PERUAN DE ENVASES\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.csprojResolveAssemblyReference.cache
+E:\PERUAN DE ENVASES\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.dll
+E:\PERUAN DE ENVASES\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.pdb

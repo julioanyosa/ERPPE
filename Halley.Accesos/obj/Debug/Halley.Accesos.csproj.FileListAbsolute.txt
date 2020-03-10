@@ -1,0 +1,55 @@
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Accesos.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Accesos.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Configuracion.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Accesos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Accesos\obj\Debug\Halley.Accesos.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Accesos\obj\Debug\Halley.Accesos.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Accesos.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Accesos.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Configuracion.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Accesos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Accesos\obj\Debug\Halley.Accesos.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Accesos\obj\Debug\Halley.Accesos.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Accesos.dll
+G:\ERP_Halley\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Accesos.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Configuracion.dll
+G:\ERP_Halley\ERP_Halley\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Accesos\obj\Debug\ResolveAssemblyReference.cache
+G:\ERP_Halley\ERP_Halley\Halley.Accesos\obj\Debug\Halley.Accesos.dll
+G:\ERP_Halley\ERP_Halley\Halley.Accesos\obj\Debug\Halley.Accesos.pdb
+G:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Accesos.dll
+G:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Accesos.pdb
+G:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Configuracion.dll
+G:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
+G:\ERP_HALLEY\Halley.Accesos\obj\Debug\ResolveAssemblyReference.cache
+G:\ERP_HALLEY\Halley.Accesos\obj\Debug\Halley.Accesos.dll
+G:\ERP_HALLEY\Halley.Accesos\obj\Debug\Halley.Accesos.pdb
+D:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Accesos.dll
+D:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Accesos.pdb
+D:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Configuracion.dll
+D:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
+D:\ERP_HALLEY\Halley.Accesos\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP_HALLEY\Halley.Accesos\obj\Debug\Halley.Accesos.dll
+D:\ERP_HALLEY\Halley.Accesos\obj\Debug\Halley.Accesos.pdb
+E:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Accesos.dll
+E:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Accesos.pdb
+E:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Configuracion.dll
+E:\ERP_HALLEY\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
+E:\ERP_HALLEY\Halley.Accesos\obj\Debug\Halley.Accesos.csprojResolveAssemblyReference.cache
+E:\ERP_HALLEY\Halley.Accesos\obj\Debug\Halley.Accesos.dll
+E:\ERP_HALLEY\Halley.Accesos\obj\Debug\Halley.Accesos.pdb
+E:\PERUAN DE ENVASES\Halley.Accesos\bin\Debug\Halley.Accesos.dll
+E:\PERUAN DE ENVASES\Halley.Accesos\bin\Debug\Halley.Accesos.pdb
+E:\PERUAN DE ENVASES\Halley.Accesos\bin\Debug\Halley.Configuracion.dll
+E:\PERUAN DE ENVASES\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\PERUAN DE ENVASES\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\PERUAN DE ENVASES\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
+E:\PERUAN DE ENVASES\Halley.Accesos\obj\Debug\Halley.Accesos.csprojResolveAssemblyReference.cache
+E:\PERUAN DE ENVASES\Halley.Accesos\obj\Debug\Halley.Accesos.dll
+E:\PERUAN DE ENVASES\Halley.Accesos\obj\Debug\Halley.Accesos.pdb

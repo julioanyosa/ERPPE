@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_RepGeneracionVales" targetNamespace="http://tempuri.org/XML_RepGeneracionVales.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_RepGeneracionVales.xsd" xmlns:mstns="http://tempuri.org/XML_RepGeneracionVales.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="RepGeneracionVales">
+    <xs:complexType>
+      <xs:attribute name="Cliente" type="xs:string" />
+      <xs:attribute name="Comprobante" type="xs:string" />
+      <xs:attribute name="Producto" type="xs:string" />
+      <xs:attribute name="Peso" type="xs:string" />
+      <xs:attribute name="Numeros" type="xs:string" />
+      <xs:attribute name="CodBar" type="xs:string" />
+      <xs:attribute name="Direccion" type="xs:string  " />
+      <xs:attribute name="Foto" type="xs:base64Binary" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

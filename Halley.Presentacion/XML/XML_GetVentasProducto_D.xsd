@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetVentasProducto_D" targetNamespace="http://tempuri.org/XML_GetVentasProducto_D.xsd"  elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetVentasProducto_D.xsd" xmlns:mstns="http://tempuri.org/XML_GetVentasProducto_D.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="RepConVales">
+    <xs:complexType>
+    <xs:attribute name="ProductoID" type="xs:string" />
+    <xs:attribute name="Alias" type="xs:string" />
+    <xs:attribute name="UnidadMedidaID" type="xs:string" />
+    <xs:attribute name="SUMACANTIDAD" type="xs:decimal" />
+    <xs:attribute name="MONTOVENDIDO" type="xs:decimal" />
+    <xs:attribute name="VENDEDOR" type="xs:string" />
+      
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

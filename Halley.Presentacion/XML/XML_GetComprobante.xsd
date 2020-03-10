@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetComprobante"
+    targetNamespace="http://tempuri.org/XML_GetComprobante.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XML_GetComprobante.xsd"
+    xmlns:mstns="http://tempuri.org/XML_GetComprobante.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="Comprobante">
+    <xs:complexType>
+      
+      <xs:attribute name="NumComprobante" type="xs:string" />
+      <xs:attribute name="EmpresaID" type="xs:string" />
+      <xs:attribute name="SedeID" type="xs:string" />
+      <xs:attribute name="NomSede" type="xs:string" />
+      <xs:attribute name="TipoComprobanteID" type="xs:int" />
+      <xs:attribute name="ClienteID" type="xs:int" />
+      <xs:attribute name="RazonSocial" type="xs:string" />
+      <xs:attribute name="NroDocumento" type="xs:string" />
+      <xs:attribute name="TipoDocumento" type="xs:string" />
+      <xs:attribute name="Direccion" type="xs:string" />
+      <xs:attribute name="TipoVentaID" type="xs:int" />
+      <xs:attribute name="NomTipoVenta" type="xs:string" />
+      <xs:attribute name="TipoPagoID" type="xs:int" />
+      <xs:attribute name="FormaPagoID" type="xs:int" />
+      <xs:attribute name="NumCaja" type="xs:int" />
+      <xs:attribute name="NroGuia" type="xs:string" />
+      <xs:attribute name="IGV" type="xs:decimal" />
+      <xs:attribute name="SubTotal" type="xs:decimal" />
+      <xs:attribute name="TotalIGV" type="xs:decimal" />
+      <xs:attribute name="Vendedor" type="xs:int" />
+      <xs:attribute name="NomVendedor" type="xs:string" />
+      <xs:attribute name="CreditoID" type="xs:int" />
+      <xs:attribute name="Cajero" type="xs:int" />
+      <xs:attribute name="NomCajero" type="xs:string" />
+      <xs:attribute name="EstadoID" type="xs:int" />
+      <xs:attribute name="Externa" type="xs:boolean" />
+      <xs:attribute name="Vale" type="xs:boolean" />
+      <xs:attribute name="AudCrea" type="xs:dateTime" />
+      
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="DetalleComprobante">
+    <xs:complexType>
+      <xs:attribute name="NumComprobante" type="xs:string" />
+      <xs:attribute name="TipoComprobanteID" type="xs:int" />
+      <xs:attribute name="ProductoID" type="xs:string" />
+      <xs:attribute name="Alias" type="xs:string" />
+      <xs:attribute name="UnidadMedidaID" type="xs:string" />
+      <xs:attribute name="Cantidad" type="xs:decimal" />
+      <xs:attribute name="CantidadDespachada" type="xs:decimal" />
+      <xs:attribute name="PrecioUnitario" type="xs:decimal" />
+      <xs:attribute name="Importe" type="xs:decimal" />
+      <xs:attribute name="FechaReserva" type="xs:dateTime" />
+      <xs:attribute name="AudCrea" type="xs:dateTime" />
+      <xs:attribute name="DespachoID" type="xs:int" />
+      
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetVentasPorProducto"
+    targetNamespace="http://tempuri.org/XML_GetVentasPorProducto.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XML_GetVentasPorProducto.xsd"
+    xmlns:mstns="http://tempuri.org/XML_GetVentasPorProducto.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="GetVentasPorProducto">
+    <xs:complexType>
+      
+      <xs:attribute name="NumComprobante" type="xs:string" />
+      <xs:attribute name="TipoComprobanteID" type="xs:int" />
+      <xs:attribute name="NomTipoComprobante" type="xs:string" />
+      <xs:attribute name="RazonSocial" type="xs:string" />
+      <xs:attribute name="Cantidad" type="xs:decimal" />
+      <xs:attribute name="Importe" type="xs:decimal" />
+      <xs:attribute name="AudCrea" type="xs:dateTime" />
+      
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

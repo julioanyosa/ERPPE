@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_VentaExterna" targetNamespace="http://tempuri.org/XML_VentaExterna.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_VentaExterna.xsd" xmlns:mstns="http://tempuri.org/XML_VentaExterna.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="getVentaExterna">
+    <xs:complexType>
+      <xs:attribute name="Fecha" type="xs:string" />
+      <xs:attribute name="NomTipoComprobante" type="xs:string" />
+      <xs:attribute name="NumComprobante" type="xs:string" />
+      <xs:attribute name="RazonSocial" type="xs:string" />
+      <xs:attribute name="VentaTotal" type="xs:decimal" />
+      <xs:attribute name="NomEstado" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

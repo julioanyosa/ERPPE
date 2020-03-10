@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{382E0B63-6911-4085-A62B-42627DD91B8C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Halley.CapaLogica</RootNamespace>
+    <AssemblyName>Halley.CapaLogica</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="RRV.Seguridad">
+      <HintPath>..\COM RRV\RRV.Seguridad\RRV.Seguridad\bin\Debug\RRV.Seguridad.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Almacen\CL_GuiaCompraMaiz.cs" />
+    <Compile Include="Almacen\CL_GuiaRemision.cs" />
+    <Compile Include="Almacen\CL_GuiaTransportista.cs" />
+    <Compile Include="Almacen\CL_HojaDespachocs.cs" />
+    <Compile Include="Almacen\CL_Kardex.cs" />
+    <Compile Include="Almacen\CL_Requerimientos.cs" />
+    <Compile Include="Almacen\CL_Producto.cs" />
+    <Compile Include="Contabilidad\CL_Venta.cs" />
+    <Compile Include="Contabilidad\CL_Contabilidad.cs" />
+    <Compile Include="Empresa\CL_Choferes.cs" />
+    <Compile Include="Empresa\CL_Empresas.cs" />
+    <Compile Include="Compras\CL_OrdenCompra.cs" />
+    <Compile Include="Compras\CL_Proveedor.cs" />
+    <Compile Include="Empresa\CL_Vehiculo.cs" />
+    <Compile Include="Produccion\CL_Produccion.cs" />
+    <Compile Include="Service References\ServicioEnviarComprobanteFEPrueba\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServicioEnviarComprobanteFE\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Users\CL_Helper.cs" />
+    <Compile Include="Users\CL_Menu.cs" />
+    <Compile Include="Users\CL_Perfil.cs" />
+    <Compile Include="Almacen\CL_Almacen.cs" />
+    <Compile Include="Users\CL_Usuario.cs" />
+    <Compile Include="Users\CL_UsuarioAlmacen.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VentasTemp\CL_VentasTemp.cs" />
+    <Compile Include="Ventas\CL_Comprobante.cs" />
+    <Compile Include="Ventas\CL_OrdenPedido.cs" />
+    <Compile Include="Ventas\CL_Vales.cs" />
+    <Compile Include="Ventas\CL_Venta.cs" />
+    <Compile Include="Ventas\CL_Cliente.cs" />
+    <Compile Include="Ventas\CL_Credito.cs" />
+    <Compile Include="Ventas\CL_Pago.cs" />
+    <Compile Include="Ventas\CL_NotaCredito.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Halley.CapaDatos\Halley.CapaDatos.csproj">
+      <Project>{399FC0C7-301E-4CF8-ABF4-B5E896188CFB}</Project>
+      <Name>Halley.CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Halley.Configuracion\Halley.Configuracion.csproj">
+      <Project>{8670C550-22FE-48DB-9487-E65886C977E2}</Project>
+      <Name>Halley.Configuracion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Halley.Entidad\Halley.Entidad.csproj">
+      <Project>{8848EF10-FA03-463E-9499-C9903ECB4052}</Project>
+      <Name>Halley.Entidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Halley.Utilitario\Halley.Utilitario.csproj">
+      <Project>{5FBCFB40-DCA9-409C-9B5F-8D13E88CFA13}</Project>
+      <Name>Halley.Utilitario</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\Halley.CapaLogica.ServicioEnviarComprobanteFEPrueba.DocumentoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\Halley.CapaLogica.ServicioEnviarComprobanteFEPrueba.EnviarDocumentoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\Halley.CapaLogica.ServicioEnviarComprobanteFEPrueba.RespuestaComunConArchivo2.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\OpenInvoicePeru.Comun.Dto.Intercambio.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\OpenInvoicePeru.Comun.Dto.Modelos.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\service.wsdl" />
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\WCF_FE.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFE\FEService.wsdl" />
+    <None Include="Service References\ServicioEnviarComprobanteFE\Halley.CapaLogica.ServicioEnviarComprobanteFE.DocumentoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFE\Halley.CapaLogica.ServicioEnviarComprobanteFE.EnviarDocumentoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFE\Halley.CapaLogica.ServicioEnviarComprobanteFE.RespuestaComunConArchivo2.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFE\WCF_FE.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFE\WCF_FE1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFE\WCF_FE2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFE\WCF_FE3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioEnviarComprobanteFE\WCF_FE5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ServicioEnviarComprobanteFEPrueba\" />
+    <WCFMetadataStorage Include="Service References\ServicioEnviarComprobanteFE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServicioEnviarComprobanteFE\WCF_FE.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServicioEnviarComprobanteFE\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServicioEnviarComprobanteFE\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServicioEnviarComprobanteFE\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServicioEnviarComprobanteFEPrueba\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

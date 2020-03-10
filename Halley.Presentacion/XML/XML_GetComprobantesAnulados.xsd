@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_ComprobanteAnulados"
+    targetNamespace="http://tempuri.org/XML_ComprobanteAnulados.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XML_ComprobanteAnulados.xsd"
+    xmlns:mstns="http://tempuri.org/XML_ComprobanteAnulados.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="ComprobanteAnulados">
+    <xs:complexType>
+      <xs:attribute name="AudCrea" type="xs:dateTime" />
+      <xs:attribute name="AudElimina" type="xs:dateTime" />
+      <xs:attribute name="NumComprobante" type="xs:string" />
+      <xs:attribute name="NomTipoComprobante" type="xs:string" />
+      <xs:attribute name="Descripcion" type="xs:string" />
+      <xs:attribute name="NomSede" type="xs:decimal" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

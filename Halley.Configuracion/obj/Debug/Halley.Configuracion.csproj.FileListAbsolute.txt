@@ -1,0 +1,33 @@
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Configuracion\bin\Debug\Halley.Configuracion.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Configuracion\bin\Debug\Halley.Configuracion.pdb
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Configuracion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Configuracion\obj\Debug\Halley.Configuracion.dll
+C:\Users\Rafael\Desktop\Halley Ulimo 21-11-2011\ERP_Halley\Halley.Configuracion\obj\Debug\Halley.Configuracion.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Configuracion\bin\Debug\Halley.Configuracion.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Configuracion\bin\Debug\Halley.Configuracion.pdb
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Configuracion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Configuracion\obj\Debug\Halley.Configuracion.dll
+C:\Users\Rafael\Desktop\Halley Ultimo 21-11-2011\ERP_Halley\Halley.Configuracion\obj\Debug\Halley.Configuracion.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Configuracion\bin\Debug\Halley.Configuracion.dll
+G:\ERP_Halley\ERP_Halley\Halley.Configuracion\bin\Debug\Halley.Configuracion.pdb
+G:\ERP_Halley\ERP_Halley\Halley.Configuracion\obj\Debug\ResolveAssemblyReference.cache
+G:\ERP_Halley\ERP_Halley\Halley.Configuracion\obj\Debug\Halley.Configuracion.dll
+G:\ERP_Halley\ERP_Halley\Halley.Configuracion\obj\Debug\Halley.Configuracion.pdb
+G:\ERP_HALLEY\Halley.Configuracion\bin\Debug\Halley.Configuracion.dll
+G:\ERP_HALLEY\Halley.Configuracion\bin\Debug\Halley.Configuracion.pdb
+G:\ERP_HALLEY\Halley.Configuracion\obj\Debug\ResolveAssemblyReference.cache
+G:\ERP_HALLEY\Halley.Configuracion\obj\Debug\Halley.Configuracion.dll
+G:\ERP_HALLEY\Halley.Configuracion\obj\Debug\Halley.Configuracion.pdb
+D:\ERP_HALLEY\Halley.Configuracion\bin\Debug\Halley.Configuracion.dll
+D:\ERP_HALLEY\Halley.Configuracion\bin\Debug\Halley.Configuracion.pdb
+D:\ERP_HALLEY\Halley.Configuracion\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP_HALLEY\Halley.Configuracion\obj\Debug\Halley.Configuracion.dll
+D:\ERP_HALLEY\Halley.Configuracion\obj\Debug\Halley.Configuracion.pdb
+E:\ERP_HALLEY\Halley.Configuracion\bin\Debug\Halley.Configuracion.dll
+E:\ERP_HALLEY\Halley.Configuracion\bin\Debug\Halley.Configuracion.pdb
+E:\ERP_HALLEY\Halley.Configuracion\obj\Debug\Halley.Configuracion.dll
+E:\ERP_HALLEY\Halley.Configuracion\obj\Debug\Halley.Configuracion.pdb
+E:\PERUAN DE ENVASES\Halley.Configuracion\bin\Debug\Halley.Configuracion.dll
+E:\PERUAN DE ENVASES\Halley.Configuracion\bin\Debug\Halley.Configuracion.pdb
+E:\PERUAN DE ENVASES\Halley.Configuracion\obj\Debug\Halley.Configuracion.dll
+E:\PERUAN DE ENVASES\Halley.Configuracion\obj\Debug\Halley.Configuracion.pdb

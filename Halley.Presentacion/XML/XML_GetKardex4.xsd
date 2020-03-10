@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetKardex4" targetNamespace="http://tempuri.org/XML_GetKardex4.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetKardex4.xsd" xmlns:mstns="http://tempuri.org/GetKardex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetKardex4">
+    <xs:complexType>
+      <xs:attribute name="ProductoID" type="xs:string" />
+      <xs:attribute name="Producto" type="xs:string" />
+      <xs:attribute name="UnidadMedidaID" type="xs:string" />
+      <xs:attribute name="Cantidad" type="xs:string" />      
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="RUC" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+      <xs:attribute name="DomicilioFiscal" type="xs:string" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

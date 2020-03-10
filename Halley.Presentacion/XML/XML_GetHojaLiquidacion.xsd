@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetHojaLiquidacion" targetNamespace="http://tempuri.org/XML_GetHojaLiquidacion.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_GetHojaLiquidacion.xsd" xmlns:mstns="http://tempuri.org/GetHojaLiquidacion.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Cabecera">
+    <xs:complexType>
+      <xs:attribute name="NumHojaLiquidacion" type="xs:string" />
+      <xs:attribute name="ProductoID" type="xs:string" />
+      <xs:attribute name="Alias" type="xs:string" />
+      <xs:attribute name="NombreProveedor" type="xs:string" />
+      <xs:attribute name="DNI" type="xs:string" />
+      <xs:attribute name="Procedencia" type="xs:string" />
+      <xs:attribute name="PrecioUnitario" type="xs:decimal" />
+      <xs:attribute name="Sacos" type="xs:string" />
+      <xs:attribute name="TotalSaco" type="xs:int" />
+      <xs:attribute name="TotalPeso" type="xs:decimal" />
+      <xs:attribute name="Comentario" type="xs:string" />
+      <xs:attribute name="EstadoID" type="xs:int" />
+      <xs:attribute name="NomEstado" type="xs:string" />
+      <xs:attribute name="Direccion" type="xs:string" />
+      <xs:attribute name="NomSede" type="xs:string" />
+      <xs:attribute name="AudCrea" type="xs:dateTime" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Detalle">
+    <xs:complexType>
+      <xs:attribute name="NumHojaLiquidacion" type="xs:string" />
+      <xs:attribute name="Kilo" type="xs:decimal" />
+      <xs:attribute name="Saco" type="xs:int" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

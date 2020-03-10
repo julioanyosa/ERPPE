@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_RepConVales" targetNamespace="http://tempuri.org/XML_RepConVales.xsd"  elementFormDefault="qualified" xmlns="http://tempuri.org/XML_RepConVales.xsd" xmlns:mstns="http://tempuri.org/XML_RepConVales.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="RepConVales">
+    <xs:complexType>
+    <xs:attribute name="NumVale" type="xs:string" />
+    <xs:attribute name="Unidades" type="xs:string" />
+    <xs:attribute name="PesoReal" type="xs:string" />
+    <xs:attribute name="Importe" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

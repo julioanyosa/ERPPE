@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_RangoComprobantes"
+    targetNamespace="http://tempuri.org/XML_RangoComprobantes.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XML_GetComprobante.xsd"
+    xmlns:mstns="http://tempuri.org/XML_RangoComprobantes.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="RangoComprobantes">
+    <xs:complexType>
+      
+      <xs:attribute name="FECHA" type="xs:dateTime" />
+      <xs:attribute name="SERIE" type="xs:string" />
+      <xs:attribute name="NUMERO_INI" type="xs:int" />
+      <xs:attribute name="NUMERO_FIN" type="xs:int" />
+      <xs:attribute name="BASE" type="xs:decimal" />
+      <xs:attribute name="IGV" type="xs:decimal" />
+      <xs:attribute name="TOTAL" type="xs:decimal" />
+      
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

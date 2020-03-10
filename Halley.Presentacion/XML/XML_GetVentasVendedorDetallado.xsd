@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_GetVentasVendedor"
+    targetNamespace="http://tempuri.org/XML_GetVentasVendedor.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XML_GetVentasVendedor.xsd"
+    xmlns:mstns="http://tempuri.org/XML_GetVentasVendedor.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="VentasVendedor">
+    <xs:complexType>
+      <xs:attribute name="ProductoID" type="xs:string" />
+      <xs:attribute name="Alias" type="xs:string" />
+      <xs:attribute name="UnidadMedidaID" type="xs:string" />
+      <xs:attribute name="CantidadVendida" type="xs:decimal" />
+      <xs:attribute name="Importe" type="xs:decimal" />
+      <xs:attribute name="Vendedor" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Logo">
+    <xs:complexType>
+      <xs:attribute name="NomEmpresa" type="xs:string" />
+      <xs:attribute name="Logo" type="xs:base64Binary" />
+
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
