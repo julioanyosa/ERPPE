@@ -337,6 +337,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Ventas\CrystalReports\CrListaPrecios.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrListaPrecios.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Ventas\CrystalReports\CrVentasComprobante.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -372,6 +378,12 @@
     </Compile>
     <Compile Include="Ventas\Administracion\FrmImprimirPuntos.Designer.cs">
       <DependentUpon>FrmImprimirPuntos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\Reporte\RepListaPrecio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventas\Reporte\RepListaPrecio.Designer.cs">
+      <DependentUpon>RepListaPrecio.cs</DependentUpon>
     </Compile>
     <Compile Include="Ventas\Reporte\FrmCierre.cs">
       <SubType>Form</SubType>
@@ -944,10 +956,10 @@
     <Compile Include="Ventas\Pagos\PagoSede.Designer.cs">
       <DependentUpon>PagoSede.cs</DependentUpon>
     </Compile>
-    <Compile Include="Ventas\Pagos\FrmConfigurarImpresora.cs">
+    <Compile Include="Ventas\Administracion\FrmConfigurarImpresora.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ventas\Pagos\FrmConfigurarImpresora.Designer.cs">
+    <Compile Include="Ventas\Administracion\FrmConfigurarImpresora.Designer.cs">
       <DependentUpon>FrmConfigurarImpresora.cs</DependentUpon>
     </Compile>
     <Compile Include="Ventas\Pagos\PagoComprobante.cs">
@@ -1254,6 +1266,10 @@
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>CrVentasClienteDetallado.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\CrystalReports\CrListaPrecios.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrListaPrecios.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ventas\CrystalReports\CrVentasComprobante.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>CrVentasComprobante.cs</LastGenOutput>
@@ -1275,6 +1291,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Ventas\Administracion\FrmImprimirPuntos.resx">
       <DependentUpon>FrmImprimirPuntos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\Reporte\RepListaPrecio.resx">
+      <DependentUpon>RepListaPrecio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Ventas\Reporte\FrmCierre.resx">
       <DependentUpon>FrmCierre.cs</DependentUpon>
@@ -1573,7 +1592,7 @@
     <EmbeddedResource Include="Ventas\Pagos\PagoSede.resx">
       <DependentUpon>PagoSede.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Ventas\Pagos\FrmConfigurarImpresora.resx">
+    <EmbeddedResource Include="Ventas\Administracion\FrmConfigurarImpresora.resx">
       <DependentUpon>FrmConfigurarImpresora.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Ventas\Pagos\PagoComprobante.resx">
@@ -1678,6 +1697,9 @@
       <DependentUpon>DsHojaDespacho.xsd</DependentUpon>
     </None>
     <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML\XML_ListaPrecios.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="XML\XML_GetVentasClienteDetallado.xsd">
@@ -2234,6 +2256,7 @@
     <Content Include="Resources\balanza32x32.gif" />
     <None Include="Resources\CajaRegistradora_32x32.gif" />
     <None Include="Resources\CajaFuerte32x32.gif" />
+    <None Include="Resources\BarCode_16x16.png" />
     <Content Include="Resources\Cajas32x32.gif" />
     <None Include="Resources\CierreMensual32x32.gif" />
     <Content Include="Resources\cascaron.jpg" />

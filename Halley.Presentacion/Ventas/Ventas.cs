@@ -356,7 +356,7 @@ namespace Halley.Presentacion.Ventas
                         else if (chkVendedor.Checked == false)
                         {
                             if (VendedorID == 0)
-                            { MessageBox.Show("Al parecer no se ha ingresado el vendedor", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning); TxtCodigo.Focus(); return; }
+                            { MessageBox.Show("Al parecer no se ha ingresado el vendedor", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning); TxtProducto.Focus(); return; }
                         }
 
 
@@ -609,7 +609,7 @@ namespace Halley.Presentacion.Ventas
                     {
                         if (TdgDocumento.RowCount == 0) { ErrProvider.SetError(TdgDocumento, "No hay Registros que procesar."); }
                         if (haycero == true) { MessageBox.Show("Hay cero en el precio de venta del producto: " + Producto, "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning); }
-                        if (VendedorID == 0) { MessageBox.Show("Al parecer no se ha ingresado el vendedor", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning); TxtCodigo.Focus(); }
+                        if (VendedorID == 0) { MessageBox.Show("Al parecer no se ha ingresado el vendedor", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning); TxtProducto.Focus(); }
                     }
                 }
                 #endregion
@@ -626,7 +626,6 @@ namespace Halley.Presentacion.Ventas
 
         private void BtnVistaPrevia_Click(object sender, EventArgs e)
         {
-
 
             Pagos.FrmConfigurarImpresora ObjFrmConfigurarImpresora = new Pagos.FrmConfigurarImpresora();
             ObjFrmConfigurarImpresora.Show();
@@ -649,7 +648,7 @@ namespace Halley.Presentacion.Ventas
             TxtVentaNeta.Value = 0;
             TxtTotalPagar.Value = 0;
             TxtMontoPagado.Text = "0";
-            TxtCodigo.Text = "";
+            //TxtCodigo.Text = "";
             TxtProducto.Text = "";
             TxtPrecio.ReadOnly = false;
             TxtPrecio.Text = "";
@@ -781,22 +780,65 @@ namespace Halley.Presentacion.Ventas
 
             if (RbNormal.Checked == true | RbExterno.Checked == true)
             {
-                DataRow Dr = DtDetalleComprobante.NewRow();
-                Dr["ProductoIDVentas"] = ProductoIDVentas;
-                Dr["ProductoID"] = ProductoID;
-                Dr["Alias"] = Alias;
-                Dr["UnidadMedidaID"] = UnidadMedidaID;
-                Dr["Cantidad"] = Cantidad;
-                Dr["PrecioUnitario"] = PrecioUnitario;
-                Dr["Importe"] = NuevoPrecio;
-                if (RbReserva.Checked == true)
-                    Dr["FechaReserva"] = FechaReserva;
+                //buscar el producto y agregar en un mismo registro
+                if (UnidadMedidaID != "KG")
+                {
+                    DataView dv = new DataView(DtDetalleComprobante, "ProductoID = '" + ProductoID + "'", "", DataViewRowState.CurrentRows);
+                    if (dv.Count > 0)
+                    {
+                        foreach (DataRow DR in DtDetalleComprobante.Rows)
+                        {
+                            if (DR["ProductoID"].ToString() == ProductoID)
+                            {
+                                DR["Cantidad"] = Convert.ToDecimal(DR["Cantidad"]) + Cantidad;
+                                DR["Importe"] = Convert.ToDecimal(DR["Importe"]) + NuevoPrecio;
+                            }
+
+                        }
+                        DtDetalleComprobante.AcceptChanges();
+                    }
+                    else
+                    {
+                        DataRow Dr = DtDetalleComprobante.NewRow();
+                        Dr["ProductoIDVentas"] = ProductoIDVentas;
+                        Dr["ProductoID"] = ProductoID;
+                        Dr["Alias"] = Alias;
+                        Dr["UnidadMedidaID"] = UnidadMedidaID;
+                        Dr["Cantidad"] = Cantidad;
+                        Dr["PrecioUnitario"] = PrecioUnitario;
+                        Dr["Importe"] = NuevoPrecio;
+                        if (RbReserva.Checked == true)
+                            Dr["FechaReserva"] = FechaReserva;
+                        else
+                            Dr["FechaReserva"] = DBNull.Value;
+                        Dr["EstadoID"] = EstadoIDEntrega;
+                        Dr["AlmacenID"] = AlmacenID;
+                        Dr["HistoricoPrecioID"] = HistoricoPrecioID;
+                        DtDetalleComprobante.Rows.Add(Dr);
+                    }
+                }
                 else
-                    Dr["FechaReserva"] = DBNull.Value;
-                Dr["EstadoID"] = EstadoIDEntrega;
-                Dr["AlmacenID"] = AlmacenID;
-                Dr["HistoricoPrecioID"] = HistoricoPrecioID;
-                DtDetalleComprobante.Rows.Add(Dr);
+                {
+                    DataRow Dr = DtDetalleComprobante.NewRow();
+                    Dr["ProductoIDVentas"] = ProductoIDVentas;
+                    Dr["ProductoID"] = ProductoID;
+                    Dr["Alias"] = Alias;
+                    Dr["UnidadMedidaID"] = UnidadMedidaID;
+                    Dr["Cantidad"] = Cantidad;
+                    Dr["PrecioUnitario"] = PrecioUnitario;
+                    Dr["Importe"] = NuevoPrecio;
+                    if (RbReserva.Checked == true)
+                        Dr["FechaReserva"] = FechaReserva;
+                    else
+                        Dr["FechaReserva"] = DBNull.Value;
+                    Dr["EstadoID"] = EstadoIDEntrega;
+                    Dr["AlmacenID"] = AlmacenID;
+                    Dr["HistoricoPrecioID"] = HistoricoPrecioID;
+                    DtDetalleComprobante.Rows.Add(Dr);
+                }
+
+
+
             }
             else//si es reserva o diferida no deberian repetirse los items de venta
             {
@@ -824,7 +866,6 @@ namespace Halley.Presentacion.Ventas
                     MessageBox.Show("El producto ya ha sido agregado al detalle. En reserva y diferida solo puede almacenar un item por comprobante", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Stop);
             }
             TxtProducto.Text = "";
-            TxtCodigo.Text = "";
             if (RbReserva.Checked == false)
             {
                 TxtCantidad.Text = "";
@@ -832,10 +873,10 @@ namespace Halley.Presentacion.Ventas
             TxtPrecio.ReadOnly = false;
             TxtPrecio.Text = "";
             TxtPrecio.ReadOnly = true;
-            if (NroTerminales == 1)
-                TxtCodigo.Focus();
-            if (NroTerminales == 3 | NroTerminales == 2)
-                TxtProducto.Focus();
+            //if (NroTerminales == 1)
+            //    TxtCodigo.Focus();
+            //if (NroTerminales == 3 | NroTerminales == 2)
+            TxtProducto.Focus();
         }
         private void TxtCodigo_TextChanged(object sender, EventArgs e)
         {
@@ -857,155 +898,169 @@ namespace Halley.Presentacion.Ventas
             }*/
         }
 
-        private void TxtProducto_TextChanged(object sender, EventArgs e)
-        {
-            /*try
-            {
-                if (TxtProducto.Text.Length > 0)
-                {
-                    TdgListaProductos.Visible = true;
-                    DataView dv = new DataView(DtProductos);
-                    dv.RowFilter = "Alias LIKE '" + TxtProducto.Text + "%'";
-                    this.TdgListaProductos.SetDataBinding(dv, "", true);
-                }
-                else
-                    TdgListaProductos.Visible = false;
-            }
-            catch (Exception)
-            {
-                // MessageBox.Show(ex.Message, "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }*/
-        }
+        //private void TxtProducto_TextChanged(object sender, EventArgs e)
+        //{
+        //    /*try
+        //    {
+        //        if (TxtProducto.Text.Length > 0)
+        //        {
+        //            TdgListaProductos.Visible = true;
+        //            DataView dv = new DataView(DtProductos);
+        //            dv.RowFilter = "Alias LIKE '" + TxtProducto.Text + "%'";
+        //            this.TdgListaProductos.SetDataBinding(dv, "", true);
+        //        }
+        //        else
+        //            TdgListaProductos.Visible = false;
+        //    }
+        //    catch (Exception)
+        //    {
+        //        // MessageBox.Show(ex.Message, "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        //    }*/
+        //}
 
-        private void TxtCodigo_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            if (e.KeyChar == (char)(Keys.Enter) & TxtCodigo.Text != "")
-            {
-                DtProductos = ObjCL_Producto.GetProductosPrecio(EmpresaID + AppSettings.SedeID, TxtCodigo.Text, "C");
+        //private void TxtCodigo_KeyPress(object sender, KeyPressEventArgs e)
+        //{
+        //    if (e.KeyChar == (char)(Keys.Enter) & TxtCodigo.Text != "")
+        //    {
+        //        DtProductos = ObjCL_Producto.GetProductosPrecio(EmpresaID + AppSettings.SedeID, TxtCodigo.Text, "C");
 
-                //si el producto es unico no es necesario mostrar la lista
-                if (DtProductos.Rows.Count == 1)
-                {
+        //        //si el producto es unico no es necesario mostrar la lista
+        //        if (DtProductos.Rows.Count == 1)
+        //        {
 
-                    AlmacenID = EmpresaID + AppSettings.SedeID + DtProductos.Rows[0]["Almacen"].ToString();
+        //            AlmacenID = EmpresaID + AppSettings.SedeID + DtProductos.Rows[0]["Almacen"].ToString();
 
-                    if (EmpresaID == "" | AppSettings.SedeID == "" | DtProductos.Rows[0]["Almacen"].ToString() == "" | AlmacenID.Length != 10)
-                        MessageBox.Show("El codigo de almacen es = '" + AlmacenID + "'", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        //            if (EmpresaID == "" | AppSettings.SedeID == "" | DtProductos.Rows[0]["Almacen"].ToString() == "" | AlmacenID.Length != 10)
+        //                MessageBox.Show("El codigo de almacen es = '" + AlmacenID + "'", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
-                    StockDisponible = Convert.ToDecimal(DtProductos.Rows[0]["StockDisponible"]);
-                    LblStock.Text = StockDisponible.ToString();
-                    ProductoID = DtProductos.Rows[0]["ProductoID"].ToString();
-                    ProductoIDVentas = DtProductos.Rows[0]["ProductoIDVentas"].ToString();
-                    Alias = DtProductos.Rows[0]["Alias"].ToString();
-                    UnidadMedidaID = DtProductos.Rows[0]["UnidadMedidaID"].ToString();
-                    PrecioUnitario = Convert.ToDecimal(DtProductos.Rows[0]["PrecioUnitario"].ToString());
-                    HistoricoPrecioID = Convert.ToInt32(DtProductos.Rows[0]["HistoricoPrecioID"].ToString());
+        //            StockDisponible = Convert.ToDecimal(DtProductos.Rows[0]["StockDisponible"]);
+        //            LblStock.Text = StockDisponible.ToString();
+        //            ProductoID = DtProductos.Rows[0]["ProductoID"].ToString();
+        //            ProductoIDVentas = DtProductos.Rows[0]["ProductoIDVentas"].ToString();
+        //            Alias = DtProductos.Rows[0]["Alias"].ToString();
+        //            UnidadMedidaID = DtProductos.Rows[0]["UnidadMedidaID"].ToString();
+        //            PrecioUnitario = Convert.ToDecimal(DtProductos.Rows[0]["PrecioUnitario"].ToString());
+        //            HistoricoPrecioID = Convert.ToInt32(DtProductos.Rows[0]["HistoricoPrecioID"].ToString());
 
-                    if (StockDisponible > 0 | RbDiferida.Checked == true | RbReserva.Checked == true)
-                    {
-                        TxtCodigo.Text = ProductoIDVentas;
-                        TxtProducto.Text = Alias;
-                        TxtPrecio.ReadOnly = false;
-                        TxtPrecio.Text = PrecioUnitario.ToString();
-                        TxtPrecio.ReadOnly = true;
-                        if (RbReserva.Checked == true)
-                        {
-                            BtnReserva_Click(null, null);
-                        }
-                        else
-                        {
-                            TxtCantidad.Focus(); //establecer como foco la cantidad
-                        }
-                        CalcularTotales();
-                    }
+        //            if (StockDisponible > 0 | RbDiferida.Checked == true | RbReserva.Checked == true)
+        //            {
+        //                TxtCodigo.Text = ProductoIDVentas;
+        //                TxtProducto.Text = Alias;
+        //                TxtPrecio.ReadOnly = false;
+        //                TxtPrecio.Text = PrecioUnitario.ToString();
+        //                TxtPrecio.ReadOnly = true;
+        //                if (RbReserva.Checked == true)
+        //                {
+        //                    BtnReserva_Click(null, null);
+        //                }
+        //                else
+        //                {
+        //                    TxtCantidad.Focus(); //establecer como foco la cantidad
+        //                }
+        //                CalcularTotales();
+        //            }
 
-                }
-                else if (e.KeyChar == (char)(Keys.Escape))
-                {
-                    if (TdgListaProductos.Visible == true)
-                        TdgListaProductos.Visible = false;
-                }
-                else if (DtProductos.Rows.Count == 0)
-                {
-                    if (NroTerminales == 1)
-                        TxtCodigo.Focus();
-                    else if (NroTerminales == 2)
-                        TxtProducto.Focus();
-                }
-                else
-                {
-                    TdgListaProductos.Visible = true;
-                    TdgListaProductos.SetDataBinding(DtProductos, "", true);
-                    TdgListaProductos.Focus();
-                }
-            }
-        }
+        //        }
+        //        else if (e.KeyChar == (char)(Keys.Escape))
+        //        {
+        //            if (TdgListaProductos.Visible == true)
+        //                TdgListaProductos.Visible = false;
+        //        }
+        //        else if (DtProductos.Rows.Count == 0)
+        //        {
+        //            if (NroTerminales == 1)
+        //                TxtCodigo.Focus();
+        //            else if (NroTerminales == 2)
+        //                TxtProducto.Focus();
+        //        }
+        //        else
+        //        {
+        //            TdgListaProductos.Visible = true;
+        //            TdgListaProductos.SetDataBinding(DtProductos, "", true);
+        //            TdgListaProductos.Focus();
+        //        }
+        //    }
+        //}
 
         private void TxtProducto_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (e.KeyChar == (char)(Keys.Enter) & TxtProducto.Text != "")
             {
-                DtProductos = ObjCL_Producto.GetProductosPrecio(EmpresaID + AppSettings.SedeID, TxtProducto.Text, "A");
-                if (DtProductos.Rows.Count == 1)
-                {
-                    AlmacenID = EmpresaID + AppSettings.SedeID + DtProductos.Rows[0]["Almacen"].ToString();
-                    StockDisponible = Convert.ToDecimal(DtProductos.Rows[0]["StockDisponible"]);
-                    LblStock.Text = StockDisponible.ToString();
-                    ProductoID = DtProductos.Rows[0]["ProductoID"].ToString();
-                    ProductoIDVentas = DtProductos.Rows[0]["ProductoIDVentas"].ToString();
-                    Alias = DtProductos.Rows[0]["Alias"].ToString();
-                    UnidadMedidaID = DtProductos.Rows[0]["UnidadMedidaID"].ToString();
-                    PrecioUnitario = Convert.ToDecimal(DtProductos.Rows[0]["PrecioUnitario"].ToString());
-                    HistoricoPrecioID = Convert.ToInt32(DtProductos.Rows[0]["HistoricoPrecioID"].ToString());
+                string CodigoDeBarra = TxtProducto.Text;
 
-                    if (StockDisponible > 0 | RbDiferida.Checked == true | RbReserva.Checked == true)
+                if (CodigoDeBarra.Length == 13 & CodigoDeBarra.Substring(0, 1) == "2")//es producto
+                {
+                    //se oculta la grilla
+                    //ver si es por unidad o por precio
+
+                    string UM = "";
+                    UM = CodigoDeBarra.Substring(1, 1);
+                    TdgListaProductos.Visible = false;
+                    //descomponer el codigo
+                    string Codigo = "";
+                    string Articulo = "";
+                    decimal Cantidad = 0;
+                    Codigo = CodigoDeBarra.Substring(3, 4);
+                    if (UM == "0")
+                        Cantidad = Convert.ToDecimal(CodigoDeBarra.Substring(7, 5)) / 1000;
+                    else
+                        Cantidad = Convert.ToDecimal(CodigoDeBarra.Substring(7, 5));
+                    BuscarProducto2(Codigo, Articulo, Cantidad);
+                    Calcular();
+                    CalcularTotales();
+
+                }
+                else if (CodigoDeBarra.Length == 13 & CodigoDeBarra.Substring(0, 1) == "V")//es vendedor
+                {
+                    if (DtVendedor.Rows.Count > 0)
                     {
-                        TxtCodigo.Text = ProductoIDVentas;
-                        TxtProducto.Text = Alias;
-                        TxtPrecio.ReadOnly = false;
-                        TxtPrecio.Text = PrecioUnitario.ToString();
-                        TxtPrecio.ReadOnly = true;
-                        if (RbReserva.Checked == true)
-                        {
-                            BtnReserva_Click(null, null);
-                        }
+                        VendedorID = Convert.ToInt32(CodigoDeBarra.Substring(1));
+                        DataView Dv = new DataView(DtVendedor);
+                        Dv.RowFilter = "UserID = " + VendedorID.ToString();
+                        if (Dv.Count > 0)
+                            NomVendedor = Dv[0]["Descripcion"].ToString();
                         else
                         {
-                            TxtCantidad.Focus(); //establecer como foco la cantidad
+                            NomVendedor = "";
+                            VendedorID = 0;
+                            MessageBox.Show("Este vendedor no existe o no pertenece a esta sede.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         }
-                        CalcularTotales();
+                        LblVendedor.Text = NomVendedor;
+                        TxtProducto.Text = "";
+                        TxtProducto.Focus();
+
                     }
 
                 }
-                if (e.KeyChar == (char)(Keys.Escape))
-                {
-                    if (TdgListaProductos.Visible == true)
-                        TdgListaProductos.Visible = false;
-                }
-                else if (DtProductos.Rows.Count == 0)
-                {
-                    if (NroTerminales == 1)
-                        TxtCodigo.Focus();
-                    else if (NroTerminales == 2 | NroTerminales == 3)
-                        TxtProducto.Focus();
-                }
                 else
                 {
-                    TdgListaProductos.Visible = true;
-                    TdgListaProductos.SetDataBinding(DtProductos, "", true);
-                    TdgListaProductos.Focus();
+
+                    BuscarProducto2(CodigoDeBarra, "", 1);
+                    Calcular();
+                    CalcularTotales();
+
+
                 }
+
+
+
+            }
+
+            if (e.KeyChar == (char)(Keys.Escape))
+            {
+                if (TdgListaProductos.Visible == true)
+                    TdgListaProductos.Visible = false;
             }
         }
-        private void TxtCodigo_KeyUp(object sender, KeyEventArgs e)
-        {
-            ValidarCodigoBarra(TxtCodigo.Text);
-        }
+        //private void TxtCodigo_KeyUp(object sender, KeyEventArgs e)
+        //{
+        //    ValidarCodigoBarra(TxtCodigo.Text);
+        //}
 
-        private void TxtProducto_KeyUp(object sender, KeyEventArgs e)
-        {
-            ValidarCodigoBarra(TxtProducto.Text);
-        }
+        //private void TxtProducto_KeyUp(object sender, KeyEventArgs e)
+        //{
+        //    ValidarCodigoBarra(TxtProducto.Text);
+        //}
         #endregion
 
 
@@ -1078,22 +1133,71 @@ namespace Halley.Presentacion.Ventas
                     MessageBox.Show("Lo solicitado no puede ser mayor al stock disponible.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
                 TxtProducto.Text = "";
-                TxtCodigo.Text = "";
+                //TxtCodigo.Text = "";
                 if (RbReserva.Checked != true)
                 {
                     TxtCantidad.Text = "";
                 }
-                TxtCodigo.Focus();
+                TxtProducto.Focus();
 
             }
-            else
+            else if (DtProductos.Rows.Count == 0)
             {
-                MessageBox.Show("No se encontro el producto, verifique su almacen principal, que tenga stock en su almacen principal y que tenga un precio.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                TxtCodigo.ReadOnly = false;
-                TxtCodigo.Text = "";
-                TxtCodigo.Focus();
-                return;
+                DtProductos = ObjCL_Producto.GetProductosPrecio(EmpresaID + AppSettings.SedeID, TxtProducto.Text, "A");
+                if (DtProductos.Rows.Count == 1)
+                {
+                    AlmacenID = EmpresaID + AppSettings.SedeID + DtProductos.Rows[0]["Almacen"].ToString();
+                    StockDisponible = Convert.ToDecimal(DtProductos.Rows[0]["StockDisponible"]);
+                    LblStock.Text = StockDisponible.ToString();
+                    ProductoID = DtProductos.Rows[0]["ProductoID"].ToString();
+                    ProductoIDVentas = DtProductos.Rows[0]["ProductoIDVentas"].ToString();
+                    Alias = DtProductos.Rows[0]["Alias"].ToString();
+                    UnidadMedidaID = DtProductos.Rows[0]["UnidadMedidaID"].ToString();
+                    PrecioUnitario = Convert.ToDecimal(DtProductos.Rows[0]["PrecioUnitario"].ToString());
+                    HistoricoPrecioID = Convert.ToInt32(DtProductos.Rows[0]["HistoricoPrecioID"].ToString());
+
+                    if (StockDisponible > 0 | RbDiferida.Checked == true | RbReserva.Checked == true)
+                    {
+                        //TxtCodigo.Text = ProductoIDVentas;
+                        TxtProducto.Text = Alias;
+                        TxtPrecio.ReadOnly = false;
+                        TxtPrecio.Text = PrecioUnitario.ToString();
+                        TxtPrecio.ReadOnly = true;
+                        if (RbReserva.Checked == true)
+                        {
+                            BtnReserva_Click(null, null);
+                        }
+                        else
+                        {
+                            TxtCantidad.Focus(); //establecer como foco la cantidad
+                        }
+                        CalcularTotales();
+                    }
+
+                }
+                else if (DtProductos.Rows.Count == 0)
+                {
+                    //if (NroTerminales == 1)
+                    //    TxtCodigo.Focus();
+                    //else if (NroTerminales == 2 | NroTerminales == 3)
+                    TxtProducto.Text = "";
+                    TxtProducto.Focus();
+                }
+                else
+                {
+                    TdgListaProductos.Visible = true;
+                    TdgListaProductos.SetDataBinding(DtProductos, "", true);
+                    TdgListaProductos.Focus();
+                }
             }
+            //else
+            //{
+            //    MessageBox.Show("No se encontro el producto, verifique su almacen principal, que tenga stock en su almacen principal y que tenga un precio.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            //    TxtProducto.ReadOnly = false;
+            //    TxtProducto.Text = "";
+            //    TxtProducto.Focus();
+            //    return;
+            //}
 
         }
 
@@ -1183,7 +1287,7 @@ namespace Halley.Presentacion.Ventas
             NroAutorizacion = dv1[0]["NroAutorizacion"].ToString();
 
             string CodigoTipoComprobante = "03", TipoLetra = "B", TipoDocumentoCliente = "DNI";
-            int Canticabecera = 31;
+
             string[] Formatoticket = new string[2];
             if (ObjCL_Venta.HABILITADOFE2(EmpresaID))
             {
@@ -1208,7 +1312,7 @@ namespace Halley.Presentacion.Ventas
                         CodigoTipoComprobante = "01";
                         TipoLetra = "F";
                         TipoDocumentoCliente = "RUC";
-                        Canticabecera = 35;
+
 
                         Formatoticket = ObjCL_Venta.FormatoTicketFE(NomEmpresa, AppSettings.NomSede, NumComprobante.Substring(2),
                         "FACTURA ELECTRONICA: ", DtDetalleComprobante, RUC, AppSettings.Usuario, TotalPagar, NomCaja, SerieEticketera,
@@ -1232,7 +1336,7 @@ namespace Halley.Presentacion.Ventas
                     s = RUC + " | " + CodigoTipoComprobante + " | " + TipoLetra + NumComprobante.Substring(2, 3) + " | " + "0" + NumComprobante.Substring(6) + " | " + Convert.ToDecimal(TxtIGV.Text).ToString("N2") + " | " + Convert.ToDecimal(TxtVentaNeta.Text).ToString("N2") + " | " +
                         FECHA_IMPRESION.ToShortDateString() + " | " + TipoDocumentoCliente + " | " + TxtNroDocumentoCliente.Text;
                     objqrcode.QRCodeEncodeMode = QRCodeEncoder.ENCODE_MODE.BYTE;
-                    objqrcode.QRCodeScale = 3;
+                    objqrcode.QRCodeScale = 2;
                     objqrcode.QRCodeVersion = 6;
                     objqrcode.QRCodeErrorCorrect = ThoughtWorks.QRCode.Codec.QRCodeEncoder.ERROR_CORRECTION.L;
                     imgimage = objqrcode.Encode(s);
@@ -1240,8 +1344,8 @@ namespace Halley.Presentacion.Ventas
                     //objbitmap.Save("QRCode.jpg");
                     //Pimage.ImageLocation = "QRCode.jpg";
                     //CALCULAMOS AL CANTIDAD DE LINEAS
-                    int CantidadLineas = (Canticabecera * 14) + (Convert.ToInt32(Formatoticket[1]) * 14);
-                    e.Graphics.DrawImage(imgimage, new Point(70, CantidadLineas));
+                    int CantidadLineas = ((Convert.ToInt32(Formatoticket[1]) + 2) * 13);
+                    e.Graphics.DrawImage(imgimage, new Point(80, CantidadLineas));
 
 
                     if (Convert.ToDecimal(TxtIGV.Text) == 0)
@@ -1276,8 +1380,6 @@ namespace Halley.Presentacion.Ventas
                         CodigoTipoComprobante = "01";
                         TipoLetra = "F";
                         TipoDocumentoCliente = "RUC";
-                        Canticabecera = 35;
-
                         string[] Formatoticket2 = new string[2];
                         Formatoticket2 = ObjCL_Venta.FormatoTicketFEResumido(NomEmpresa, AppSettings.NomSede, NumComprobante.Substring(2),
                         "FACTURA ELECTRONICA: ", DtDetalleComprobante, RUC, AppSettings.Usuario, TotalPagar, NomCaja, SerieEticketera,
@@ -1388,53 +1490,7 @@ namespace Halley.Presentacion.Ventas
 
         }
 
-        private void ValidarCodigoBarra(string CodigoDeBarra)
-        {
-            if (CodigoDeBarra.Length > 0)
-            {
-                if (CodigoDeBarra.Length == 13 & CodigoDeBarra.Substring(0, 1) == "2")//es producto
-                {
-                    //se oculta la grilla
-                    //ver si es por unidad o por precio
-                    string UM = "";
-                    UM = CodigoDeBarra.Substring(1, 1);
-                    TdgListaProductos.Visible = false;
-                    //descomponer el codigo
-                    string Codigo = "";
-                    string Articulo = "";
-                    decimal Cantidad = 0;
-                    Codigo = CodigoDeBarra.Substring(3, 4);
-                    if (UM == "0")
-                        Cantidad = Convert.ToDecimal(CodigoDeBarra.Substring(7, 5)) / 1000;
-                    else
-                        Cantidad = Convert.ToDecimal(CodigoDeBarra.Substring(7, 5));
-                    BuscarProducto2(Codigo, Articulo, Cantidad);
-                    Calcular();
-                    CalcularTotales();
-                }
-                else if (CodigoDeBarra.Length == 13 & CodigoDeBarra.Substring(0, 1) == "V")//es vendedor
-                {
-                    if (DtVendedor.Rows.Count > 0)
-                    {
-                        VendedorID = Convert.ToInt32(CodigoDeBarra.Substring(1));
-                        DataView Dv = new DataView(DtVendedor);
-                        Dv.RowFilter = "UserID = " + VendedorID.ToString();
-                        if (Dv.Count > 0)
-                            NomVendedor = Dv[0]["Descripcion"].ToString();
-                        else
-                        {
-                            NomVendedor = "";
-                            VendedorID = 0;
-                            MessageBox.Show("Este vendedor no existe o no pertenece a esta sede.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        }
-                        LblVendedor.Text = NomVendedor;
-                        TxtCodigo.Text = "";
-                        TxtProducto.Text = "";
-                        TxtCodigo.Focus();
-                    }
-                }
-            }
-        }
+
 
         private void Calcular()
         {
@@ -1455,35 +1511,16 @@ namespace Halley.Presentacion.Ventas
                 CboSerieGuia.ComboBox.DataSource = Dv;
                 CboSerieGuia.ComboBox.DisplayMember = "Serie";
                 CboSerieGuia.ComboBox.ValueMember = "Serie";
+ 
+                DataView DVS = new DataView(UTI_Datatables.Dt_Configuracion, "Codigo ='" + EmpresaID + "_SERIE_" + CboTipoComprobante.ComboBox.SelectedValue.ToString() + "'", "", DataViewRowState.CurrentRows);
 
-                //seleccionar la serie por defecto
-                switch (CboTipoComprobante.ComboBox.SelectedValue.ToString())
-                {
-                    case "1":
-                        if (EmpresaID == "PE")
-                        {
-                            if (AppSettings.PESerieDefectoBoleta != "")
-                                CboSerieGuia.ComboBox.SelectedValue = AppSettings.PESerieDefectoBoleta;
-                        }
-
-                        break;
-                    case "2":
-                        if (EmpresaID == "PE")
-                        {
-                            if (AppSettings.PESerieDefectoFactura != "")
-                                CboSerieGuia.ComboBox.SelectedValue = AppSettings.PESerieDefectoFactura;
-                        }
-
-                        break;
-                    case "3":
-                        if (EmpresaID == "PE")
-                        {
-                            if (AppSettings.PESerieDefectoTicket != "")
-                                CboSerieGuia.ComboBox.SelectedValue = AppSettings.PESerieDefectoTicket;
-                        }
-
-                        break;
+                if (DVS.Count > 0)
+                { 
+                    CboSerieGuia.ComboBox.SelectedValue = DVS[0]["Data"].ToString();
                 }
+
+
+                 
 
                 if (Dv.Count == 0)
                 {
@@ -1576,31 +1613,31 @@ namespace Halley.Presentacion.Ventas
 
         private void BtnReserva_Click(object sender, EventArgs e)
         {
-            Alias = TxtProducto.Text;
-            ProductoID = TxtCodigo.Text;
-            if (Alias != "" & ProductoID != "")
-            {
-                FrmReserva ObjFrmReserva = new FrmReserva();
-                ObjFrmReserva.Alias = Alias;
-                ObjFrmReserva.ProductoID = ProductoID;
-                ObjFrmReserva.ShowDialog();
+            //Alias = TxtProducto.Text;
+            //ProductoID = TxtCodigo.Text;
+            //if (Alias != "" & ProductoID != "")
+            //{
+            //    FrmReserva ObjFrmReserva = new FrmReserva();
+            //    ObjFrmReserva.Alias = Alias;
+            //    ObjFrmReserva.ProductoID = ProductoID;
+            //    ObjFrmReserva.ShowDialog();
 
-                if (ObjFrmReserva.Aprobado == true)
-                {
-                    FechaReserva = ObjFrmReserva.FechaReserva;
-                    AgregarDetalle(ObjFrmReserva.Cantidad);
-                }
-                Calcular();
-                CalcularTotales();
-                TxtProducto.Text = "";
-                TxtCodigo.Text = "";
-                if (RbReserva.Checked == false)
-                    TxtCantidad.Text = "";
-                TxtPrecio.ReadOnly = false;
-                TxtPrecio.Text = "";
-                TxtPrecio.ReadOnly = true;
-                TxtCodigo.Focus();
-            }
+            //    if (ObjFrmReserva.Aprobado == true)
+            //    {
+            //        FechaReserva = ObjFrmReserva.FechaReserva;
+            //        AgregarDetalle(ObjFrmReserva.Cantidad);
+            //    }
+            //    Calcular();
+            //    CalcularTotales();
+            //    TxtProducto.Text = "";
+            //    //TxtCodigo.Text = "";
+            //    if (RbReserva.Checked == false)
+            //        TxtCantidad.Text = "";
+            //    TxtPrecio.ReadOnly = false;
+            //    TxtPrecio.Text = "";
+            //    TxtPrecio.ReadOnly = true;
+            //    TxtCodigo.Focus();
+            //}
         }
 
         private void BtnGenerarGuias_Click(object sender, EventArgs e)
@@ -1860,26 +1897,12 @@ namespace Halley.Presentacion.Ventas
         {
             if (CboSerieGuia.SelectedIndex != -1)
             {
-                UpdateConfiguration ObjUpdateConfiguration = new UpdateConfiguration();
-                //seleccionar la serie por defecto
-                switch (CboTipoComprobante.ComboBox.SelectedValue.ToString())
-                {
-                    case "1":
-                        if (EmpresaID == "PE")
-                            ObjUpdateConfiguration.AppSettingsSectionModify("PESerieDefectoBoleta", CboSerieGuia.ComboBox.SelectedValue.ToString());
+                DataTable DtImpresora = new DataTable();
+                DtImpresora = ObjUsuario.USP_M_CONFIGURACION(1, 0, c1cboCia.SelectedValue.ToString(), c1cboCia.SelectedValue.ToString() + "_SERIE_" + CboTipoComprobante.ComboBox.SelectedValue.ToString(), "SERIE POR DEFECTO", CboSerieGuia.ComboBox.SelectedValue.ToString(), AppSettings.UserID, NuevaIP);
 
-                        break;
-                    case "2":
-                        if (EmpresaID == "PE")
-                            ObjUpdateConfiguration.AppSettingsSectionModify("PESerieDefectoFactura", CboSerieGuia.ComboBox.SelectedValue.ToString());
+                UTI_Datatables.Dt_Configuracion = ObjUsuario.USP_M_CONFIGURACION(2, 0, "", "", "", "", AppSettings.UserID, NuevaIP);
 
-                        break;
-                    case "3":
-                        if (EmpresaID == "PE")
-                            ObjUpdateConfiguration.AppSettingsSectionModify("PESerieDefectoTicket", CboSerieGuia.ComboBox.SelectedValue.ToString());
 
-                        break;
-                }
                 MessageBox.Show("Se actualizo la serie de la empresa '" + EmpresaID + "', de " + CboTipoComprobante.ComboBox.Text + " con la serie: " + CboSerieGuia.ComboBox.SelectedValue.ToString() + ".", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
@@ -1918,10 +1941,10 @@ namespace Halley.Presentacion.Ventas
 
                 //BuscarProducto(TdgDocumento.Columns["ProductoID"].Value.ToString(), TdgDocumento.Columns["Alias"].Value.ToString(), Cantidad);
                 SendKeys.Send("{DOWN}");
-                if (NroTerminales == 1)
-                    TxtCodigo.Focus();
-                else
-                    TxtProducto.Focus();
+                //if (NroTerminales == 1)
+                //    TxtCodigo.Focus();
+                //else
+                TxtProducto.Focus();
             }
             CalcularTotales();
 
@@ -1955,7 +1978,7 @@ namespace Halley.Presentacion.Ventas
 
                 if (StockDisponible > 0 | RbDiferida.Checked == true | RbReserva.Checked == true)
                 {
-                    TxtCodigo.Text = ProductoIDVentas;
+                    //TxtCodigo.Text = ProductoIDVentas;
                     TxtProducto.Text = Alias;
                     TxtPrecio.ReadOnly = false;
                     TxtPrecio.Text = PrecioUnitario.ToString();
@@ -1984,17 +2007,17 @@ namespace Halley.Presentacion.Ventas
 
                 TdgListaProductos.Visible = false;
 
-                TxtCodigo.Text = "";
+                //TxtCodigo.Text = "";
                 TxtProducto.Text = "";
                 TxtPrecio.ReadOnly = false;
                 TxtPrecio.Text = "";
                 TxtPrecio.ReadOnly = true;
                 TdgListaProductos.Visible = false;
 
-                if (NroTerminales == 1)
-                    TxtCodigo.Focus(); //establecer como foco la cantidad
-                if (NroTerminales == 2 | NroTerminales == 3)
-                    TxtProducto.Focus();
+                //if (NroTerminales == 1)
+                //    TxtCodigo.Focus(); //establecer como foco la cantidad
+                //if (NroTerminales == 2 | NroTerminales == 3)
+                TxtProducto.Focus();
                 CalcularTotales();
             }
 

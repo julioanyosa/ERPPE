@@ -11,11 +11,15 @@ using Halley.Configuracion;
 using Halley.Utilitario;
 using Halley.CapaLogica.Empresa;
 using Halley.Entidad.Empresa;
+using Halley.CapaLogica.Ventas;
+using System.Net;
 
 namespace Halley.Presentacion.Mantenimiento
 {
     public partial class MantenimientoProductos : UITemplateAccess
     {
+        int cantidadimprimir;
+
         CL_Producto ObjCL_Producto = new CL_Producto();
         public static DataSet Ds = new DataSet();
         private TextFunctions ObjTextFunctions = new TextFunctions();
@@ -23,8 +27,11 @@ namespace Halley.Presentacion.Mantenimiento
         DataTable DtProductos;
         DataTable DtAlmacenes;
         DataTable DtProductosBuscados = new DataTable();
+        DataTable DtComprobante;
         string TipoGuardar = "";
         string ProductoID = "";
+        string NuevaIP = "";
+        CapaLogica.Users.CL_Usuario ObjUsuario = new CapaLogica.Users.CL_Usuario();
 
         public MantenimientoProductos()
         {
@@ -33,7 +40,32 @@ namespace Halley.Presentacion.Mantenimiento
 
         private void Productos_Load(object sender, EventArgs e)
         {
-            
+            #region optener Nro IP
+            String NombreHost;
+            String DireccionIP;
+            NombreHost = Dns.GetHostName();
+            DireccionIP = System.Net.Dns.GetHostByName(NombreHost).AddressList[0] + "";
+            //MessageBox.Show(DireccionIP);
+            //dar formato a la direccion IP
+            string ACU = "";
+            NuevaIP = "";
+            for (int X = 0; X < DireccionIP.Length; X++)
+            {
+                string Valor = DireccionIP.Substring(X, 1);
+                if (Valor != ".")
+                    ACU += Valor;
+                else
+                {
+                    NuevaIP += ACU.PadLeft(3, '0') + ".";
+                    ACU = "";
+                }
+            }
+            NuevaIP += ACU.PadLeft(3, '0');
+
+            //traer impresoras
+            UTI_Datatables.Dt_Configuracion = ObjUsuario.USP_M_CONFIGURACION(2, 0, "", "", "", "", AppSettings.UserID, NuevaIP);
+            #endregion
+
             Ds = ObjCL_Producto.GetCaracteristicasProducto();
             CboGenerico.HoldFields();
             CboGenerico.DataSource = Ds.Tables["Generico"];
@@ -95,13 +127,12 @@ namespace Halley.Presentacion.Mantenimiento
             OcultarBotones(false, true, false, false, false, false);
             ReadOnly(true);
 
-            PnlPrecio.Visible = false;
         }
 
         private void c1cboCia_SelectedValueChanged(object sender, EventArgs e)
         {
             DataTable DtAlmacenUsuario = new DataTable();
-            if(c1cboCia.SelectedValue != null && CboSede.SelectedValue!=null)
+            if (c1cboCia.SelectedValue != null && CboSede.SelectedValue != null)
             {
                 //todos los almacenes
                 DtAlmacenUsuario = new CL_Almacen().ObtenerAlmacen2(c1cboCia.SelectedValue.ToString(), CboSede.SelectedValue.ToString());
@@ -116,50 +147,30 @@ namespace Halley.Presentacion.Mantenimiento
         {
             try
             {
-                if (RbInsertarStock.Checked == true)
+                ErrProvider.Clear();
+                if (c1cboCia.SelectedIndex != -1 & CboSede.SelectedIndex != -1 & CboProducto.SelectedIndex != -1 & TxtCantidad.Text != "" & TxtStockDisponible.Text != "" & TxtStockMaximo.Text != "" & TxtStockMinimo.Text != "" &
+                    TxtCantidad.Text != "." & TxtStockDisponible.Text != "." & TxtStockMaximo.Text != "." & TxtStockMinimo.Text != ".")
                 {
-                    ErrProvider.Clear();
-                    if (c1cboCia.SelectedIndex != -1 & CboSede.SelectedIndex != -1 & CboProducto.SelectedIndex != -1 & TxtCantidad.Text != "" & TxtStockDisponible.Text != "" & TxtStockMaximo.Text != "" & TxtStockMinimo.Text != "" &
-                        TxtCantidad.Text != "." & TxtStockDisponible.Text != "." & TxtStockMaximo.Text != "." & TxtStockMinimo.Text != ".")
-                    {
-                        CL_Almacen ObjCL_Almacen = new CL_Almacen();
-                        ObjCL_Almacen.InsertStockAlmacen(CboAlmacen.SelectedValue.ToString(), CboProducto.SelectedValue.ToString(), Convert.ToDecimal(TxtCantidad.Text), Convert.ToDecimal(TxtStockDisponible.Text), Convert.ToDecimal(TxtStockMinimo.Text), Convert.ToDecimal(TxtStockMaximo.Text), AppSettings.UserID);
-                        MessageBox.Show("se grabo correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    }
-                    else
-                    {
-                        if (c1cboCia.SelectedIndex == -1) { ErrProvider.SetError(c1cboCia, "Debe seleccionar una empresa"); }
-                        if (CboSede.SelectedIndex == -1) { ErrProvider.SetError(CboSede, "Debe seleccionar una sede"); }
-                        if (CboProducto.SelectedIndex == -1) { ErrProvider.SetError(CboProducto, "Debe seleccionar un producto"); }
-                        if (TxtCantidad.Text == "" | TxtCantidad.Text == ".") { ErrProvider.SetError(TxtCantidad, "Debe ingresar una cantidad valida"); }
-                        if (TxtStockDisponible.Text == "" | TxtStockDisponible.Text == ".") { ErrProvider.SetError(TxtStockDisponible, "Debe ingresar una cantidad valida"); }
-                        if (TxtStockMaximo.Text == "" | TxtStockMaximo.Text == ".") { ErrProvider.SetError(TxtStockMaximo, "Debe ingresar una cantidad valida"); }
-                        if (TxtStockMinimo.Text == "" | TxtStockMinimo.Text == ".") { ErrProvider.SetError(TxtStockMinimo, "Debe ingresar una cantidad valida"); }
-                    }
+                    CL_Almacen ObjCL_Almacen = new CL_Almacen();
+                    ObjCL_Almacen.InsertStockAlmacen(CboAlmacen.SelectedValue.ToString(), CboProducto.SelectedValue.ToString(), Convert.ToDecimal(TxtCantidad.Text), Convert.ToDecimal(TxtStockDisponible.Text), Convert.ToDecimal(TxtStockMinimo.Text), Convert.ToDecimal(TxtStockMaximo.Text), AppSettings.UserID);
+                    MessageBox.Show("se grabo correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
-                else if (RbInsertarPrecio.Checked == true)
+                else
                 {
-                    ErrProvider.Clear();
-                    if (c1cboCia.SelectedIndex != -1 & CboSede.SelectedIndex != -1 & CboProducto.SelectedIndex != -1 & TxtPrecio.Text != "" & TxtPrecio.Text != ".")
-                    {
-                        CL_Producto ObjCL_Producto = new CL_Producto();
-                        ObjCL_Producto.InsertPrecioNuevo(CboAlmacen.SelectedValue.ToString(), CboProducto.SelectedValue.ToString(), AppSettings.UserID, Convert.ToDecimal(TxtPrecio.Text), AppSettings.SedeID);
-                        MessageBox.Show("se grabo correctamente el precio", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    }
-                    else
-                    {
-                        if (c1cboCia.SelectedIndex == -1) { ErrProvider.SetError(c1cboCia, "Debe seleccionar una empresa"); }
-                        if (CboSede.SelectedIndex == -1) { ErrProvider.SetError(CboSede, "Debe seleccionar una sede"); }
-                        if (CboProducto.SelectedIndex == -1) { ErrProvider.SetError(CboProducto, "Debe seleccionar un producto"); }
-                        if (TxtPrecio.Text == "" | TxtPrecio.Text == ".") { ErrProvider.SetError(TxtPrecio, "Debe ingresar una cantidad valida"); }
-                    }
+                    if (c1cboCia.SelectedIndex == -1) { ErrProvider.SetError(c1cboCia, "Debe seleccionar una empresa"); }
+                    if (CboSede.SelectedIndex == -1) { ErrProvider.SetError(CboSede, "Debe seleccionar una sede"); }
+                    if (CboProducto.SelectedIndex == -1) { ErrProvider.SetError(CboProducto, "Debe seleccionar un producto"); }
+                    if (TxtCantidad.Text == "" | TxtCantidad.Text == ".") { ErrProvider.SetError(TxtCantidad, "Debe ingresar una cantidad valida"); }
+                    if (TxtStockDisponible.Text == "" | TxtStockDisponible.Text == ".") { ErrProvider.SetError(TxtStockDisponible, "Debe ingresar una cantidad valida"); }
+                    if (TxtStockMaximo.Text == "" | TxtStockMaximo.Text == ".") { ErrProvider.SetError(TxtStockMaximo, "Debe ingresar una cantidad valida"); }
+                    if (TxtStockMinimo.Text == "" | TxtStockMinimo.Text == ".") { ErrProvider.SetError(TxtStockMinimo, "Debe ingresar una cantidad valida"); }
                 }
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            
+
         }
 
         private void BtnUnidadMedida_Click(object sender, EventArgs e)
@@ -268,7 +279,7 @@ namespace Halley.Presentacion.Mantenimiento
                 else if (TipoGuardar == "Actualizar")
                 {
                     ObjCL_Producto.UpdateProducto(ObjProducto, "A", PIDVentas);
-                    
+
                     //actualizar tabla
                     if (DtProductosBuscados.Rows.Count > 0)
                     {
@@ -289,7 +300,7 @@ namespace Halley.Presentacion.Mantenimiento
                         customerRow[0]["Balanza"] = ObjProducto.Balanza;
                         customerRow[0]["IDExistencia"] = ObjProducto.IDExistencia;
                         customerRow[0]["CoeficienteTransformacion"] = ObjProducto.CoeficienteTransformacion;
-                        if(ObjProducto.ProductoIDPrincipal == "SI")
+                        if (ObjProducto.ProductoIDPrincipal == "SI")
                             customerRow[0]["ProductoIDPrincipal"] = ObjProducto.ProductoID;
                         else
                             customerRow[0]["ProductoIDPrincipal"] = "";
@@ -316,7 +327,7 @@ namespace Halley.Presentacion.Mantenimiento
                 if (MessageBox.Show("¿Está seguro que desea eliminar el Producto?", "Advertencia", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
                 {
                     ObtenerDatosControles();
-                    ObjCL_Producto.UpdateProducto(ObjProducto, "E",TxtProductoIDVentas.Text);
+                    ObjCL_Producto.UpdateProducto(ObjProducto, "E", TxtProductoIDVentas.Text);
                     lblEstado.Text = "Se eliminó el Producto:  " + TxtAlias.Text + ".";
                     lblEstado.ForeColor = Color.Red;
                 }
@@ -394,7 +405,7 @@ namespace Halley.Presentacion.Mantenimiento
             ObjProducto.DespachoPeso = ChkDespachoPeso.Checked;
             ObjProducto.Peso = Convert.ToDecimal(TxtPeso.Text);
             //este es un valor temporal, no se quedara con ese valor
-            if(ChkPrincipal.Checked == true)
+            if (ChkPrincipal.Checked == true)
                 ObjProducto.ProductoIDPrincipal = "SI";
             else
                 ObjProducto.ProductoIDPrincipal = "NO";
@@ -438,7 +449,7 @@ namespace Halley.Presentacion.Mantenimiento
 
         private void CboGenerico_SelectedValueChanged(object sender, EventArgs e)
         {
-            if(CboGenerico.SelectedIndex != -1)
+            if (CboGenerico.SelectedIndex != -1)
                 TxtNomProducto.Text = CboGenerico.Columns["NomGenerico"].Value.ToString();
             else
                 TxtNomProducto.Text = "";
@@ -484,7 +495,7 @@ namespace Halley.Presentacion.Mantenimiento
                 Int32 FilasAfectadas = 0;
                 CL_Almacen ObjCL_Almacen = new CL_Almacen();
                 FilasAfectadas = ObjCL_Almacen.UpdateStockAlmacen(CboAlmacen.SelectedValue.ToString(), CboProducto.SelectedValue.ToString(), Convert.ToDecimal(TxtCantidad.Text), Convert.ToDecimal(TxtStockDisponible.Text), Convert.ToDecimal(TxtStockMinimo.Text), Convert.ToDecimal(TxtStockMaximo.Text), AppSettings.UserID);
-                if(FilasAfectadas ==1)
+                if (FilasAfectadas == 1)
                     MessageBox.Show("se grabo correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 if (FilasAfectadas == 0)//no actualizo nada
                     MessageBox.Show("No se actulizo ningun Producto", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Hand);
@@ -495,13 +506,7 @@ namespace Halley.Presentacion.Mantenimiento
             }
         }
 
-        private void RbInsertarStock_CheckedChanged(object sender, EventArgs e)
-        {
-            if (RbInsertarPrecio.Checked == true)
-                PnlPrecio.Visible = true;
-            else
-                PnlPrecio.Visible = false;
-        }
+
 
         private void TxtPrecio_KeyPress(object sender, KeyPressEventArgs e)
         {
@@ -566,6 +571,142 @@ namespace Halley.Presentacion.Mantenimiento
         {
             ObjTextFunctions.ValidaNumero(sender, e, txtCoeficienteTransformacion);
         }
+
+        private void BtnImprimir_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                ErrProvider.Clear();
+                if (c1cboCia.SelectedIndex != -1 & CboSede.SelectedIndex != -1 & 
+                    CboProducto.SelectedIndex != -1 & 
+                      TxtNroHojas.Text != "" & TxtNroHojas.Text != "."  )
+                {
+                    cantidadimprimir = Convert.ToInt32(TxtNroHojas.Text);
+
+                    DataView DV = new DataView(UTI_Datatables.Dt_Configuracion, "Codigo ='" + "IMP_CB" + "'", "", DataViewRowState.CurrentRows);
+
+                    if (DV.Count > 0)
+                    {
+                        printDocument1.PrinterSettings.PrinterName = DV[0]["Data"].ToString();
+
+                        CL_Venta ObjCL_Venta = new CL_Venta();
+                        DtComprobante = ObjCL_Venta.ObtenerImpresionCodigoBarra(CboProducto.SelectedValue.ToString(), c1cboCia.SelectedValue.ToString(), CboSede.SelectedValue.ToString());
+                        printDocument1.Print();//manda a imprimnir
+                    }
+                    else
+                    {
+                        MessageBox.Show("No existe una impresora configurada, por favor agréguela", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                        return;
+                    }
+                }
+                else
+                {
+                    if (c1cboCia.SelectedIndex == -1) { ErrProvider.SetError(c1cboCia, "Debe seleccionar una empresa"); }
+                    if (CboSede.SelectedIndex == -1) { ErrProvider.SetError(CboSede, "Debe seleccionar una sede"); }
+                    if (CboProducto.SelectedIndex == -1) { ErrProvider.SetError(CboProducto, "Debe seleccionar un producto"); }
+                    if (TxtNroHojas.Text == "" | TxtNroHojas.Text == ".") { ErrProvider.SetError(TxtNroHojas, "Debe ingresar una cantidad válida"); }
+                }
+
+
+                
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message, "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+             
+        }
+
+        private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
+        {
+
+        
+
+            printDocument1.DefaultPageSettings.PaperSize = new System.Drawing.Printing.PaperSize("CodigoBarras", 50, 300);
+            printDocument1.DefaultPageSettings.Margins.Left = 0;
+            printDocument1.DefaultPageSettings.Margins.Right = 0;
+            printDocument1.DefaultPageSettings.Margins.Top = 0;
+            printDocument1.DefaultPageSettings.Margins.Bottom = 0;
+            printDocument1.OriginAtMargins = true;
+
+
+            //e.HasMorePages = true;
+
+
+            string Alias = DtComprobante.Rows[0]["Alias"].ToString();
+            string ProductoID = DtComprobante.Rows[0]["ProductoID"].ToString();
+            string ProductoIDVentas = DtComprobante.Rows[0]["ProductoIDVentas"].ToString();
+            decimal PrecioUnitario = Convert.ToDecimal(DtComprobante.Rows[0]["PrecioUnitario"]);
+            string UnidadMedidaID = DtComprobante.Rows[0]["UnidadMedidaID"].ToString();
+
+            e.Graphics.DrawString(Alias + " " + UnidadMedidaID, TxtFormatoCBTDescripcion.Font, Brushes.Black, 10, 10);
+
+            StringFormat formato = new StringFormat();
+            formato.Alignment = StringAlignment.Center;
+
+
+            //codigo barras
+            //Rectangle rect2 = new Rectangle(10, 25, 130, 45);
+            ////TextFormatFlags flags = TextFormatFlags.HorizontalCenter | TextFormatFlags.VerticalCenter | TextFormatFlags.WordBreak;
+            //TextFormatFlags flags = TextFormatFlags.HorizontalCenter | TextFormatFlags.VerticalCenter;
+            //TextRenderer.DrawText(e.Graphics, ProductoIDVentas, TxtFormatoCB.Font, rect2, Color.Black, flags);
+            //e.Graphics.DrawRectangle(Pens.Black, rect2);
+            e.Graphics.DrawString(ProductoIDVentas, TxtFormatoCB.Font, Brushes.Black, 120, 25, formato);
+
+            e.Graphics.DrawString(ProductoIDVentas, TxtFormatoCBTDescripcion.Font, Brushes.Black, 10, 72);
+
+            if (ChkIncluirPrecio.Checked)
+                e.Graphics.DrawString("S/ " + PrecioUnitario.ToString("N2"), TxtFormatoCBTDescripcion.Font, Brushes.Black, 200, 72);
+
+            cantidadimprimir = cantidadimprimir - 1;
+
+            if (cantidadimprimir == 0)
+                e.HasMorePages = false;
+            else
+                e.HasMorePages = true;
+
+
+        }
+
+        private void BtnGrbarPrecio_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                ErrProvider.Clear();
+                if (c1cboCia.SelectedIndex != -1 & CboSede.SelectedIndex != -1 & CboProducto.SelectedIndex != -1 & TxtPrecio.Text != "" & TxtPrecio.Text != ".")
+                {
+                    CL_Producto ObjCL_Producto = new CL_Producto();
+                    ObjCL_Producto.InsertPrecioNuevo(CboAlmacen.SelectedValue.ToString(), CboProducto.SelectedValue.ToString(), AppSettings.UserID, Convert.ToDecimal(TxtPrecio.Text), AppSettings.SedeID);
+                    MessageBox.Show("se grabo correctamente el precio", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    if (c1cboCia.SelectedIndex == -1) { ErrProvider.SetError(c1cboCia, "Debe seleccionar una empresa"); }
+                    if (CboSede.SelectedIndex == -1) { ErrProvider.SetError(CboSede, "Debe seleccionar una sede"); }
+                    if (CboProducto.SelectedIndex == -1) { ErrProvider.SetError(CboProducto, "Debe seleccionar un producto"); }
+                    if (TxtPrecio.Text == "" | TxtPrecio.Text == ".") { ErrProvider.SetError(TxtPrecio, "Debe ingresar una cantidad valida"); }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void BtnConfigurarImpresora_Click(object sender, EventArgs e)
+        {
+            Halley.Presentacion.Ventas.Pagos.FrmConfigurarImpresora ObjFrmConfigurarImpresora = new Halley.Presentacion.Ventas.Pagos.FrmConfigurarImpresora();
+            ObjFrmConfigurarImpresora.Show();
+        }
+
+        private void TxtNroHojas_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ObjTextFunctions.SoloNumero(sender, e, TxtNroHojas);
+        }
+
+         
 
     }
 }

@@ -331,31 +331,31 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>L1lT47zXOSZcPEhbKxzepzxXac8=</dsig:DigestValue>
+        <dsig:DigestValue>b7JuoNACMPPaY6f1aoKQKWtoX5k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Halley.CapaDatos.dll" size="167936">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Halley.CapaDatos.dll" size="168960">
       <assemblyIdentity name="Halley.CapaDatos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>UYOKCE5AyJfm8Q1wI/8lMKAjHOY=</dsig:DigestValue>
+        <dsig:DigestValue>9pO+6Mu1LjL2YTfhGzDF8YTyGM8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Halley.CapaLogica.dll" size="175616">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Halley.CapaLogica.dll" size="176128">
       <assemblyIdentity name="Halley.CapaLogica" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>uTZqRL6FIVauoOV7qTywceSiyjY=</dsig:DigestValue>
+        <dsig:DigestValue>cw52zNKlfwJy1e5ZT4XOxpGHCC8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -367,7 +367,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>70nnZbsw8j7LtM/AOoGg6qA7axw=</dsig:DigestValue>
+        <dsig:DigestValue>X4o0825YRlIbwgAwPy8mdingW+M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -379,19 +379,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>TDkrZ3k0bFjAxMDwt9N+JwSxdWY=</dsig:DigestValue>
+        <dsig:DigestValue>7rbZSu1pwmeJO2y91ugbDYRrw00=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Halley.Presentacion.exe" size="10515968">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Halley.Presentacion.exe" size="10353152">
       <assemblyIdentity name="Halley.Presentacion" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>5ImDJbRZKrwxHgc4ZPj5KNp7F7o=</dsig:DigestValue>
+        <dsig:DigestValue>z58yaxe6inqBs1tF5S5T07nj5No=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -403,7 +403,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>zog2wtFHKqvgQq9TuPOXXkWWRIs=</dsig:DigestValue>
+        <dsig:DigestValue>TThddpp61oLw5lDeEO4v0gbRW1k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

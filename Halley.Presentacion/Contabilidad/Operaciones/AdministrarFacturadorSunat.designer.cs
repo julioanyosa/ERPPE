@@ -88,6 +88,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.c1cboCia = new C1.Win.C1List.C1Combo();
             this.label14 = new System.Windows.Forms.Label();
+            this.BtnEliminarGeneradas = new C1.Win.C1Input.C1Button();
             ((System.ComponentModel.ISupportInitialize)(this.TdgProductosFormulados)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.CboCantidadRegistros)).BeginInit();
             this.groupBox5.SuspendLayout();
@@ -618,6 +619,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.BtnEliminarGeneradas);
             this.tabPage1.Controls.Add(this.BtnObtenerInformaciónTicket);
             this.tabPage1.Controls.Add(this.BtnConfirmacionBajaFE);
             this.tabPage1.Controls.Add(this.BtnExcel);
@@ -930,6 +932,21 @@
             this.label14.TabIndex = 448;
             this.label14.Text = "Empresa:";
             // 
+            // BtnEliminarGeneradas
+            // 
+            this.BtnEliminarGeneradas.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.BtnEliminarGeneradas.Image = global::Halley.Presentacion.Properties.Resources.Cancel_32x32;
+            this.BtnEliminarGeneradas.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.BtnEliminarGeneradas.Location = new System.Drawing.Point(20, 540);
+            this.BtnEliminarGeneradas.Margin = new System.Windows.Forms.Padding(4);
+            this.BtnEliminarGeneradas.Name = "BtnEliminarGeneradas";
+            this.BtnEliminarGeneradas.Size = new System.Drawing.Size(143, 51);
+            this.BtnEliminarGeneradas.TabIndex = 452;
+            this.BtnEliminarGeneradas.Text = "Eliminar\r\ngenerados";
+            this.BtnEliminarGeneradas.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.BtnEliminarGeneradas.UseVisualStyleBackColor = true;
+            this.BtnEliminarGeneradas.Click += new System.EventHandler(this.BtnEliminarGeneradas_Click);
+            // 
             // AdministrarFacturadorSunat
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 19F);
@@ -1029,5 +1046,6 @@
         private C1.Win.C1Input.C1Button BtnObtenerInformaciónTicket;
         private C1.Win.C1Input.C1Button BtnGenerarAltaBoletasContingencia;
         private C1.Win.C1Input.C1Button BtnGenerarBajaBoletasContngencia;
+        private C1.Win.C1Input.C1Button BtnEliminarGeneradas;
     }
 }

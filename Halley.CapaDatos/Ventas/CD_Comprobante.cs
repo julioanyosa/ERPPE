@@ -593,7 +593,7 @@ decimal Importe, string Concepto, decimal Descuento, int ClienteID, int UsuarioI
             // Creamos un SQLiteCommand y le asignamos la cadena de consulta
             SQLiteCommand command = connection.CreateCommand();
             command.CommandText = SQLSelect;
-
+            command.CommandTimeout = 5000;
             // Creamos un nuevo DataTable y un DataAdapter a partir de la SELECT.
             // A continuación, rellenamos la tabla con el DataAdapter
             DataTable dt = new DataTable();
@@ -978,6 +978,37 @@ decimal Importe, string Concepto, decimal Descuento, int ClienteID, int UsuarioI
             }
 
         }
+
+        public DataTable ObtenerFacturadorComprobantesEliminar()
+        {
+
+            SQLiteConnection connection;
+
+            String SQLSelect = "SELECT TIP_DOCU, NOM_ARCH FROM DOCUMENTO WHERE TIP_DOCU IN('01','03') AND IND_SITU = '02'";
+
+            connection = new SQLiteConnection(connectionString, true);
+
+            // Abrimos la conexión
+            if (connection.State != ConnectionState.Open)
+                connection.Open();
+
+            // Creamos un SQLiteCommand y le asignamos la cadena de consulta
+            SQLiteCommand command = connection.CreateCommand();
+            command.CommandText = SQLSelect;
+            command.CommandTimeout = 5000;
+            // Creamos un nuevo DataTable y un DataAdapter a partir de la SELECT.
+            // A continuación, rellenamos la tabla con el DataAdapter
+            DataTable dt = new DataTable();
+            SQLiteDataAdapter da = new SQLiteDataAdapter(command);
+            da.Fill(dt);
+
+            // Asignamos el DataTable al DataGrid y cerramos la conexión
+
+            connection.Close();
+
+            return dt;
+        }
+
 
     }
 }

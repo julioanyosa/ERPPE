@@ -73,3 +73,13 @@ E:\PERUAN DE ENVASES\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
 E:\PERUAN DE ENVASES\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
 E:\PERUAN DE ENVASES\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
 E:\PERUAN DE ENVASES\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb
+E:\ERPPE\Halley.Utilitario\bin\Debug\Halley.Utilitario.dll
+E:\ERPPE\Halley.Utilitario\bin\Debug\Halley.Utilitario.pdb
+E:\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.dll
+E:\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.dll
+E:\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+E:\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.xml
+E:\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
+E:\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+E:\ERPPE\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
+E:\ERPPE\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb

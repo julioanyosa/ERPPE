@@ -148,3 +148,27 @@ E:\PERUAN DE ENVASES\Halley.CapaDatos\bin\Debug\C1.Win.C1Chart.2.xml
 E:\PERUAN DE ENVASES\Halley.CapaDatos\obj\Debug\Halley.CapaDatos.csprojResolveAssemblyReference.cache
 E:\PERUAN DE ENVASES\Halley.CapaDatos\obj\Debug\Halley.CapaDatos.dll
 E:\PERUAN DE ENVASES\Halley.CapaDatos\obj\Debug\Halley.CapaDatos.pdb
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Halley.CapaDatos.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Halley.CapaDatos.pdb
+E:\ERPPE\Halley.CapaDatos\bin\Debug\C1.C1Preview.2.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Halley.Configuracion.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Halley.Entidad.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Halley.Utilitario.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Newtonsoft.Json.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\System.Data.SQLite.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\C1.Win.C1List.2.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\C1.Win.C1Chart.2.dll
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Halley.Configuracion.pdb
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Halley.Entidad.pdb
+E:\ERPPE\Halley.CapaDatos\bin\Debug\Halley.Utilitario.pdb
+E:\ERPPE\Halley.CapaDatos\bin\Debug\C1.C1Preview.2.xml
+E:\ERPPE\Halley.CapaDatos\bin\Debug\System.Data.SQLite.pdb
+E:\ERPPE\Halley.CapaDatos\bin\Debug\C1.Win.C1List.2.xml
+E:\ERPPE\Halley.CapaDatos\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+E:\ERPPE\Halley.CapaDatos\bin\Debug\C1.Win.C1Chart.2.xml
+E:\ERPPE\Halley.CapaDatos\obj\Debug\Halley.CapaDatos.csprojResolveAssemblyReference.cache
+E:\ERPPE\Halley.CapaDatos\obj\Debug\Halley.CapaDatos.dll
+E:\ERPPE\Halley.CapaDatos\obj\Debug\Halley.CapaDatos.pdb

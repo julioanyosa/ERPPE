@@ -149,3 +149,28 @@ E:\PERUAN DE ENVASES\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.xml
 E:\PERUAN DE ENVASES\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.csprojResolveAssemblyReference.cache
 E:\PERUAN DE ENVASES\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.dll
 E:\PERUAN DE ENVASES\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.pdb
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.dll.config
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.CapaLogica.pdb
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.Configuracion.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.Entidad.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.Utilitario.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\System.Data.SQLite.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Newtonsoft.Json.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.CapaDatos.pdb
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.Configuracion.pdb
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.Entidad.pdb
+E:\ERPPE\Halley.CapaLogica\bin\Debug\Halley.Utilitario.pdb
+E:\ERPPE\Halley.CapaLogica\bin\Debug\System.Data.SQLite.pdb
+E:\ERPPE\Halley.CapaLogica\bin\Debug\C1.Win.C1List.2.xml
+E:\ERPPE\Halley.CapaLogica\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+E:\ERPPE\Halley.CapaLogica\bin\Debug\C1.Win.C1Chart.2.xml
+E:\ERPPE\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.csprojResolveAssemblyReference.cache
+E:\ERPPE\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.dll
+E:\ERPPE\Halley.CapaLogica\obj\Debug\Halley.CapaLogica.pdb

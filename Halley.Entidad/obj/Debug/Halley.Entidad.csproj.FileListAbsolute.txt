@@ -31,3 +31,7 @@ E:\PERUAN DE ENVASES\Halley.Entidad\bin\Debug\Halley.Entidad.dll
 E:\PERUAN DE ENVASES\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
 E:\PERUAN DE ENVASES\Halley.Entidad\obj\Debug\Halley.Entidad.dll
 E:\PERUAN DE ENVASES\Halley.Entidad\obj\Debug\Halley.Entidad.pdb
+E:\ERPPE\Halley.Entidad\bin\Debug\Halley.Entidad.dll
+E:\ERPPE\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
+E:\ERPPE\Halley.Entidad\obj\Debug\Halley.Entidad.dll
+E:\ERPPE\Halley.Entidad\obj\Debug\Halley.Entidad.pdb

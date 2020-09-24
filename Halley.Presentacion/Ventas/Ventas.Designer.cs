@@ -73,9 +73,6 @@
             this.TxtCanasta = new C1.Win.C1Input.C1TextBox();
             this.TxtProducto = new C1.Win.C1Input.C1TextBox();
             this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.TxtCodigo = new C1.Win.C1Input.C1TextBox();
-            this.label11 = new System.Windows.Forms.Label();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.label3 = new System.Windows.Forms.Label();
             this.TxtMontoPagado = new C1.Win.C1Input.C1TextBox();
@@ -135,7 +132,6 @@
             this.BarraVentas.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.TxtCanasta)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.TxtProducto)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.TxtCodigo)).BeginInit();
             this.groupBox4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.TxtMontoPagado)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.TxtPrecio)).BeginInit();
@@ -315,7 +311,7 @@
             this.CboFormaPago});
             this.BarraVentas.Location = new System.Drawing.Point(228, 9);
             this.BarraVentas.Name = "BarraVentas";
-            this.BarraVentas.Size = new System.Drawing.Size(1222, 28);
+            this.BarraVentas.Size = new System.Drawing.Size(1253, 28);
             this.BarraVentas.TabIndex = 351;
             this.BarraVentas.Text = "TsImpresion";
             // 
@@ -503,7 +499,7 @@
             // LblCanasta
             // 
             this.LblCanasta.AutoSize = true;
-            this.LblCanasta.Location = new System.Drawing.Point(925, 13);
+            this.LblCanasta.Location = new System.Drawing.Point(887, 19);
             this.LblCanasta.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LblCanasta.Name = "LblCanasta";
             this.LblCanasta.Size = new System.Drawing.Size(61, 19);
@@ -515,11 +511,12 @@
             this.TxtCanasta.BackColor = System.Drawing.Color.White;
             this.TxtCanasta.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.TxtCanasta.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-            this.TxtCanasta.Location = new System.Drawing.Point(929, 40);
+            this.TxtCanasta.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TxtCanasta.Location = new System.Drawing.Point(886, 42);
             this.TxtCanasta.Margin = new System.Windows.Forms.Padding(4);
             this.TxtCanasta.MaxLength = 2;
             this.TxtCanasta.Name = "TxtCanasta";
-            this.TxtCanasta.Size = new System.Drawing.Size(62, 24);
+            this.TxtCanasta.Size = new System.Drawing.Size(62, 32);
             this.TxtCanasta.TabIndex = 340;
             this.TxtCanasta.Tag = null;
             this.TxtCanasta.VerticalAlign = C1.Win.C1Input.VerticalAlignEnum.Middle;
@@ -528,60 +525,25 @@
             // TxtProducto
             // 
             this.TxtProducto.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-            this.TxtProducto.Location = new System.Drawing.Point(152, 44);
+            this.TxtProducto.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TxtProducto.Location = new System.Drawing.Point(11, 44);
             this.TxtProducto.Margin = new System.Windows.Forms.Padding(4);
             this.TxtProducto.MaxLength = 200;
             this.TxtProducto.Name = "TxtProducto";
-            this.TxtProducto.Size = new System.Drawing.Size(476, 26);
+            this.TxtProducto.Size = new System.Drawing.Size(523, 34);
             this.TxtProducto.TabIndex = 355;
             this.TxtProducto.Tag = null;
-            this.TxtProducto.TextChanged += new System.EventHandler(this.TxtProducto_TextChanged);
             this.TxtProducto.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtProducto_KeyPress);
-            this.TxtProducto.KeyUp += new System.Windows.Forms.KeyEventHandler(this.TxtProducto_KeyUp);
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(643, 13);
+            this.label9.Location = new System.Drawing.Point(542, 17);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(49, 19);
             this.label9.TabIndex = 354;
             this.label9.Text = "Precio:";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(160, 20);
-            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(68, 19);
-            this.label10.TabIndex = 353;
-            this.label10.Text = "Producto:";
-            // 
-            // TxtCodigo
-            // 
-            this.TxtCodigo.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-            this.TxtCodigo.Location = new System.Drawing.Point(11, 44);
-            this.TxtCodigo.Margin = new System.Windows.Forms.Padding(4);
-            this.TxtCodigo.MaxLength = 200;
-            this.TxtCodigo.Name = "TxtCodigo";
-            this.TxtCodigo.Size = new System.Drawing.Size(133, 26);
-            this.TxtCodigo.TabIndex = 358;
-            this.TxtCodigo.Tag = null;
-            this.TxtCodigo.TextChanged += new System.EventHandler(this.TxtCodigo_TextChanged);
-            this.TxtCodigo.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtCodigo_KeyPress);
-            this.TxtCodigo.KeyUp += new System.Windows.Forms.KeyEventHandler(this.TxtCodigo_KeyUp);
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(7, 20);
-            this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(56, 19);
-            this.label11.TabIndex = 357;
-            this.label11.Text = "Codigo:";
             // 
             // groupBox4
             // 
@@ -593,11 +555,8 @@
             this.groupBox4.Controls.Add(this.label5);
             this.groupBox4.Controls.Add(this.TxtCantidad);
             this.groupBox4.Controls.Add(this.LblCantidad);
-            this.groupBox4.Controls.Add(this.TxtCodigo);
-            this.groupBox4.Controls.Add(this.label11);
             this.groupBox4.Controls.Add(this.TxtProducto);
             this.groupBox4.Controls.Add(this.label9);
-            this.groupBox4.Controls.Add(this.label10);
             this.groupBox4.Controls.Add(this.LblCanasta);
             this.groupBox4.Controls.Add(this.TxtCanasta);
             this.groupBox4.Location = new System.Drawing.Point(9, 235);
@@ -612,7 +571,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(995, 17);
+            this.label3.Location = new System.Drawing.Point(956, 17);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(117, 19);
@@ -621,11 +580,12 @@
             // 
             // TxtMontoPagado
             // 
-            this.TxtMontoPagado.Location = new System.Drawing.Point(999, 40);
+            this.TxtMontoPagado.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TxtMontoPagado.Location = new System.Drawing.Point(956, 40);
             this.TxtMontoPagado.Margin = new System.Windows.Forms.Padding(4);
             this.TxtMontoPagado.MaxLength = 17;
             this.TxtMontoPagado.Name = "TxtMontoPagado";
-            this.TxtMontoPagado.Size = new System.Drawing.Size(80, 26);
+            this.TxtMontoPagado.Size = new System.Drawing.Size(137, 34);
             this.TxtMontoPagado.TabIndex = 431;
             this.TxtMontoPagado.Tag = null;
             this.TxtMontoPagado.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -645,11 +605,12 @@
             // 
             // TxtPrecio
             // 
-            this.TxtPrecio.Location = new System.Drawing.Point(648, 36);
+            this.TxtPrecio.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TxtPrecio.Location = new System.Drawing.Point(542, 44);
             this.TxtPrecio.Margin = new System.Windows.Forms.Padding(4);
             this.TxtPrecio.MaxLength = 17;
             this.TxtPrecio.Name = "TxtPrecio";
-            this.TxtPrecio.Size = new System.Drawing.Size(105, 26);
+            this.TxtPrecio.Size = new System.Drawing.Size(150, 34);
             this.TxtPrecio.TabIndex = 364;
             this.TxtPrecio.Tag = null;
             this.TxtPrecio.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -658,7 +619,8 @@
             // 
             this.LblStock.BackColor = System.Drawing.Color.White;
             this.LblStock.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.LblStock.Location = new System.Drawing.Point(762, 39);
+            this.LblStock.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblStock.Location = new System.Drawing.Point(700, 48);
             this.LblStock.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LblStock.Name = "LblStock";
             this.LblStock.Size = new System.Drawing.Size(74, 30);
@@ -668,7 +630,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(758, 13);
+            this.label5.Location = new System.Drawing.Point(696, 17);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(45, 19);
@@ -677,11 +639,12 @@
             // 
             // TxtCantidad
             // 
-            this.TxtCantidad.Location = new System.Drawing.Point(844, 36);
+            this.TxtCantidad.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TxtCantidad.Location = new System.Drawing.Point(782, 42);
             this.TxtCantidad.Margin = new System.Windows.Forms.Padding(4);
             this.TxtCantidad.MaxLength = 17;
             this.TxtCantidad.Name = "TxtCantidad";
-            this.TxtCantidad.Size = new System.Drawing.Size(77, 26);
+            this.TxtCantidad.Size = new System.Drawing.Size(96, 34);
             this.TxtCantidad.TabIndex = 360;
             this.TxtCantidad.Tag = null;
             this.TxtCantidad.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -690,7 +653,7 @@
             // LblCantidad
             // 
             this.LblCantidad.AutoSize = true;
-            this.LblCantidad.Location = new System.Drawing.Point(843, 12);
+            this.LblCantidad.Location = new System.Drawing.Point(778, 17);
             this.LblCantidad.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LblCantidad.Name = "LblCantidad";
             this.LblCantidad.Size = new System.Drawing.Size(67, 19);
@@ -728,8 +691,8 @@
             this.TdgListaProductos.PreviewInfo.ZoomFactor = 75D;
             this.TdgListaProductos.PrintInfo.PageSettings = ((System.Drawing.Printing.PageSettings)(resources.GetObject("TdgListaProductos.PrintInfo.PageSettings")));
             this.TdgListaProductos.RecordSelectors = false;
-            this.TdgListaProductos.RowHeight = 15;
-            this.TdgListaProductos.Size = new System.Drawing.Size(981, 138);
+            this.TdgListaProductos.RowHeight = 25;
+            this.TdgListaProductos.Size = new System.Drawing.Size(981, 258);
             this.TdgListaProductos.TabIndex = 409;
             this.TdgListaProductos.Text = "c1TrueDBGrid1";
             this.TdgListaProductos.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TdgListaProductos_KeyPress);
@@ -1370,7 +1333,6 @@
             this.BarraVentas.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.TxtCanasta)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.TxtProducto)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.TxtCodigo)).EndInit();
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.TxtMontoPagado)).EndInit();
@@ -1418,11 +1380,8 @@
         private System.Windows.Forms.ToolTip toolTip1;
         private System.Windows.Forms.Label LblCanasta;
         private C1.Win.C1Input.C1TextBox TxtCanasta;
-        private C1.Win.C1Input.C1TextBox TxtCodigo;
-        private System.Windows.Forms.Label label11;
         private C1.Win.C1Input.C1TextBox TxtProducto;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
         private System.Windows.Forms.GroupBox groupBox4;
         private C1.Win.C1Input.C1TextBox TxtCantidad;
         private System.Windows.Forms.Label LblCantidad;

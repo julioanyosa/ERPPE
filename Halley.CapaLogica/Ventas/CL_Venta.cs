@@ -1078,6 +1078,7 @@ namespace Halley.CapaLogica.Ventas
             string TelefonoCelular, string TelefonoFijo,decimal totalcomprobante, decimal TotalICBPER)
         {
             #region formato de etiquetera
+            CantidadFilas = 0;
             //calcular el apgo en letras
             string[] StrResultado = new string[2];
 
@@ -1088,6 +1089,7 @@ namespace Halley.CapaLogica.Ventas
             if (NomEmpresa.Length < 40)
             {
                 Stb.Append(" ".PadLeft((40 - NomEmpresa.Length) / 2, ' ') + NomEmpresa + " ".PadLeft((40 - NomEmpresa.Length) / 2, ' ') + "\n");
+                CantidadFilas += 1;
             }
             else
                 Stb.Append(NomEmpresa + "\n");
@@ -1095,18 +1097,23 @@ namespace Halley.CapaLogica.Ventas
             if (Direccion.Length < 40)
             {
                 Stb.Append(" ".PadLeft((40 - Direccion.Length) / 2, ' ') + Direccion + " ".PadLeft((40 - Direccion.Length) / 2, ' ') + "\n");
+                CantidadFilas += 1;
             }
             else
                 Stb.Append(CadenaFormateada(40, Direccion));
             Stb.Append(" ".PadLeft((40 - ("RUC : " + RUC).Length) / 2, ' ') + "RUC : " + RUC + " ".PadLeft((40 - ("RUC : " + RUC).Length) / 2, ' ') + "\n");
+            CantidadFilas += 1;
 
             if (TelefonoCelular != "")
+            {
                 Stb.Append(" ".PadLeft((40 - ("Celular #:" + TelefonoCelular).Length) / 2, ' ') + "Celular #:" + TelefonoCelular + " ".PadLeft((40 - ("Celular #:" + TelefonoCelular).Length) / 2, ' ') + "\n");
-
-
+                CantidadFilas += 1;
+            }
             if (TelefonoFijo != "")
+            {
                 Stb.Append(" ".PadLeft((40 - ("Tel. Fijo. #:" + TelefonoFijo).Length) / 2, ' ') + "Tel. Fijo. #:" + TelefonoFijo + " ".PadLeft((40 - ("Tel. Fijo. #:" + TelefonoFijo).Length) / 2, ' ') + "\n");
-
+                CantidadFilas += 1;
+            }
             Stb.Append("****************************************\n");
             Stb.Append("Nro Serie : " + NroSerieCaja + "        " + FECHA_IMPRESION.ToShortDateString() + "\n");
             //Stb.Append("Nro Aut.  : " + NroAutorizacion + "     " + FECHA_IMPRESION.ToShortTimeString() + "\n");
@@ -1120,7 +1127,7 @@ namespace Halley.CapaLogica.Ventas
             else
                 Stb.Append("Caja #:" + Nomcaja + " Cajero: " + Usuario + "\n");
 
-
+            CantidadFilas += 8;
 
 
             //region delos datos del cliente
@@ -1137,13 +1144,15 @@ namespace Halley.CapaLogica.Ventas
                 Stb.Append(CadenaFormateada(40, Nomcliente));
                 Stb.Append("Dirección:\n");
                 Stb.Append(CadenaFormateada(40, DireccionCliente));
+                CantidadFilas += 7;
             }
             Stb.Append("****************************************\n");
             //detalles del comprobante
             Stb.Append("Cant.    Producto          P.vta   Impt\n");
             Stb.Append("****************************************\n");
+            CantidadFilas += 3;
 
-            CantidadFilas = 0;
+            
             decimal totalpordetalle = 0;
             foreach (DataRow DR in DTDetalles.Rows)
             {
@@ -1174,14 +1183,17 @@ namespace Halley.CapaLogica.Ventas
             Stb.Append("IGV: ".PadRight(20, ' ') + MontoIGV.ToString("C").PadLeft(20, ' ') + "\n");
             if (TotalICBPER > 0)
             {
-                Stb.Append("Importe ICBPER:".PadRight(20, ' ') + TotalICBPER.ToString("C").PadLeft(20, ' ') + "\n"); 
+                Stb.Append("Importe ICBPER:".PadRight(20, ' ') + TotalICBPER.ToString("C").PadLeft(20, ' ') + "\n");
+                CantidadFilas += 1;
             }
             if ((totalcomprobante > Pagado) && (totalcomprobante - Pagado) < Convert.ToDecimal(0.10))
             {
                 Stb.Append("Redondeo: " + (Pagado - totalcomprobante).ToString("C").PadLeft(40 - 10, ' ') + "\n");
+                CantidadFilas += 1;
             }
             Stb.Append("IMPORTE TOTAL: ".PadRight(20, ' ') + totalcomprobante.ToString("C").PadLeft(20, ' ') + "\n\n");
             Stb.Append("TOTAL PAGO EFECTIVO S/: ".PadRight(25, ' ') + Pagado.ToString("C").PadLeft(15, ' ') + "\n\n");
+            CantidadFilas += 10;
 
             TotalPagarLetras += " SOLES.";
             if (TotalPagarLetras.Length > 40)
@@ -1191,19 +1203,26 @@ namespace Halley.CapaLogica.Ventas
                     Stb.Append(TotalPagarLetras.Substring(40, 40) + "\n\n");
                 else
                     Stb.Append(TotalPagarLetras.Substring(40) + "\n\n");
+
+                CantidadFilas += 3;
             }
             else
+            {
                 Stb.Append(TotalPagarLetras + "\n");
-
+                CantidadFilas += 1;
+            }
             Stb.Append("Monto entregado: " + MontoEntregado.ToString("C").PadLeft(40 - 17, ' ') + "\n");
             Stb.Append("Vuelto: " + (MontoEntregado - Pagado).ToString("C").PadLeft(32, ' ') + "\n");
+            CantidadFilas += 2;
 
             if (Canasta != "")
             {
                 Stb.Append("Canasta: " + Canasta + "\n");
+                CantidadFilas += 1;
             }
 
             Stb.Append("ESTA ES UNA REPRESENTACIÓN IMPRESA \nDE LA " + ((TipoFE == "F") ? "FACTURA ELECTRÓNICA" : "BOLETA ELECTRÓNICA") + "\n");
+            CantidadFilas += 2;
 
             //Stb.Append(Convert.ToChar(27) + "i");//corte de la impresora
 
@@ -1585,6 +1604,19 @@ namespace Halley.CapaLogica.Ventas
             return Stb.ToString();
             #endregion
         }
+
+        public DataTable ObtenerImpresionCodigoBarra(string ProductoID, string EmpresaID, string SedeID)
+        {
+            CD_Venta objCD_Venta = new CD_Venta(AppSettings.GetConnectionString);
+            return objCD_Venta.ObtenerImpresionCodigoBarra(ProductoID, EmpresaID, SedeID);
+        }
+
+         public DataTable ListarPrecios(string EmpresaID, string SedeID)
+        {
+            CD_Venta objCD_Venta = new CD_Venta(AppSettings.GetConnectionString);
+            return objCD_Venta.ListarPrecios(EmpresaID, SedeID);
+        }
+        
     }
 
 

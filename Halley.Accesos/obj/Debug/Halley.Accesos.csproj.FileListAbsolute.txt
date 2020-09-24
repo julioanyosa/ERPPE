@@ -53,3 +53,12 @@ E:\PERUAN DE ENVASES\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
 E:\PERUAN DE ENVASES\Halley.Accesos\obj\Debug\Halley.Accesos.csprojResolveAssemblyReference.cache
 E:\PERUAN DE ENVASES\Halley.Accesos\obj\Debug\Halley.Accesos.dll
 E:\PERUAN DE ENVASES\Halley.Accesos\obj\Debug\Halley.Accesos.pdb
+E:\ERPPE\Halley.Accesos\bin\Debug\Halley.Accesos.dll
+E:\ERPPE\Halley.Accesos\bin\Debug\Halley.Accesos.pdb
+E:\ERPPE\Halley.Accesos\bin\Debug\Halley.Configuracion.dll
+E:\ERPPE\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ERPPE\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ERPPE\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
+E:\ERPPE\Halley.Accesos\obj\Debug\Halley.Accesos.csprojResolveAssemblyReference.cache
+E:\ERPPE\Halley.Accesos\obj\Debug\Halley.Accesos.dll
+E:\ERPPE\Halley.Accesos\obj\Debug\Halley.Accesos.pdb

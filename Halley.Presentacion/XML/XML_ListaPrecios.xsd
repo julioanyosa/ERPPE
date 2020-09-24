@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XML_ReporteVentas" targetNamespace="http://tempuri.org/XML_ReporteVentas.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XML_ReporteVentas.xsd" xmlns:mstns="http://tempuri.org/XML_ReporteVentas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="getReporteVenta">
+    <xs:complexType>
+      <xs:attribute name="ProductoIDVentas" type="xs:string" />
+      <xs:attribute name="Alias" type="xs:string" />
+      <xs:attribute name="SedeID" type="xs:string" />
+      <xs:attribute name="StockActual" type="xs:decimal" />
+      <xs:attribute name="PrecioUnitario" type="xs:decimal" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

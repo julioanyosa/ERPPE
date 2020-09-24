@@ -545,5 +545,15 @@ string TipoDocumento, string IdentificadorArchivo, bool EsResumen, string Carpet
             CD_Comprobante ObjCD_Comprobante = new CD_Comprobante(AppSettings.GetConnectionString);
             return ObjCD_Comprobante.ObtenerComprobantesResumen(id);
         }
+
+        public DataTable ObtenerFacturadorComprobantesEliminar(string EmpresaID)
+        {
+            DataTable dt1 = ObtenerDatosFacturdorSunat(EmpresaID);
+            string rutabd = "Data Source=" + dt1.Rows[0]["RutaBDSunat"].ToString() + ";Version=3;New=true;Compress=True;";
+            CD_Comprobante ObjCD_Comprobante = new CD_Comprobante(rutabd);
+            return ObjCD_Comprobante.ObtenerFacturadorComprobantesEliminar();
+        }
+
+        
     }
 }

@@ -885,6 +885,30 @@ namespace Halley.CapaDatos.Ventas
             return dtTmp;
         }
 
+        public DataTable ObtenerImpresionCodigoBarra(string ProductoID, string EmpresaID, string SedeID)
+        {
+            DataTable dtTmp = new DataTable();
+            SqlDatabase SqlClient = new SqlDatabase(connectionString);
+            DbCommand SqlCommand = SqlClient.GetStoredProcCommand("Producto.ObtenerImpresion");
+
+            SqlClient.AddInParameter(SqlCommand, "@ProductoID", SqlDbType.VarChar, ProductoID); 
+            SqlClient.AddInParameter(SqlCommand, "@EmpresaID", SqlDbType.Char, EmpresaID);
+            SqlClient.AddInParameter(SqlCommand, "@SedeID", SqlDbType.Char, SedeID);
+            dtTmp.Load(SqlClient.ExecuteReader(SqlCommand));
+            return dtTmp;
+        }
+
+        public DataTable ListarPrecios(string EmpresaID, string SedeID)
+        {
+            DataTable dtTmp = new DataTable();
+            SqlDatabase SqlClient = new SqlDatabase(connectionString);
+            DbCommand SqlCommand = SqlClient.GetStoredProcCommand("Producto.usp_ListarPrecios");
+            SqlClient.AddInParameter(SqlCommand, "@EmpresaID", SqlDbType.Char, EmpresaID);
+            SqlClient.AddInParameter(SqlCommand, "@SedeID", SqlDbType.VarChar, SedeID);
+            dtTmp.Load(SqlClient.ExecuteReader(SqlCommand));
+            return dtTmp;
+        }
+
 
     }
 }
