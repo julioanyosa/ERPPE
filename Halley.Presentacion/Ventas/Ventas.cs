@@ -1205,20 +1205,21 @@ namespace Halley.Presentacion.Ventas
         {
             if (DtDetalleComprobante.Rows.Count > 0)
             {
+                DtDetalleComprobante.AcceptChanges();
                 TotalIGV = Convert.ToDecimal(DtDetalleComprobante.Compute("sum(Importe) *  " + (Convert.ToDecimal(IGV) / 100), ""));
                 Subtotal = Convert.ToDecimal(DtDetalleComprobante.Compute("sum(Importe)", "").ToString());
 
                 //calculamos el iscb
                 montoimpuestobolsa = 0;
                 decimal impuestobolsa = 0;
-                DataView DV2 = new DataView(DtImpuestoBolsa, "Descripcion = '" + DateTime.Now.Year.ToString() + "'", "", DataViewRowState.OriginalRows);
+                DataView DV2 = new DataView(DtImpuestoBolsa, "Descripcion = '" + DateTime.Now.Year.ToString() + "'", "", DataViewRowState.CurrentRows);
                 if (DV2.Count > 0)
                     impuestobolsa = Convert.ToDecimal(DV2[0]["Valor"].ToString());
 
 
                 foreach (DataRow DR in DtDetalleComprobante.Rows)
                 {
-                    DataView DV = new DataView(DtImpuestoBolsa, "Valor = '" + DR["ProductoID"] + "'", "", DataViewRowState.OriginalRows);
+                    DataView DV = new DataView(DtImpuestoBolsa, "Valor = '" + DR["ProductoID"] + "'", "", DataViewRowState.CurrentRows);
                     if (DV.Count > 0)
                         montoimpuestobolsa = montoimpuestobolsa + (impuestobolsa * Convert.ToDecimal(DR["Cantidad"]));
                 }

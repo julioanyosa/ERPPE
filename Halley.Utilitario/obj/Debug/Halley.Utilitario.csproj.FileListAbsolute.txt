@@ -83,3 +83,14 @@ E:\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
 E:\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
 E:\ERPPE\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
 E:\ERPPE\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\bin\Debug\Halley.Utilitario.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\bin\Debug\Halley.Utilitario.pdb
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1Chart.2.xml
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1List.2.xml
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\obj\Debug\Halley.Utilitario.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\obj\Debug\Halley.Utilitario.pdb
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Utilitario\obj\Debug\Halley.Utilitario.csprojResolveAssemblyReference.cache

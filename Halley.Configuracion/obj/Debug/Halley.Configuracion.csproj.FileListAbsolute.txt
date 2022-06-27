@@ -35,3 +35,7 @@ E:\ERPPE\Halley.Configuracion\bin\Debug\Halley.Configuracion.dll
 E:\ERPPE\Halley.Configuracion\bin\Debug\Halley.Configuracion.pdb
 E:\ERPPE\Halley.Configuracion\obj\Debug\Halley.Configuracion.dll
 E:\ERPPE\Halley.Configuracion\obj\Debug\Halley.Configuracion.pdb
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Configuracion\bin\Debug\Halley.Configuracion.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Configuracion\bin\Debug\Halley.Configuracion.pdb
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Configuracion\obj\Debug\Halley.Configuracion.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Configuracion\obj\Debug\Halley.Configuracion.pdb

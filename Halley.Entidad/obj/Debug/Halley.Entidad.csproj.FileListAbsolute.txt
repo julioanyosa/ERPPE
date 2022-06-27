@@ -35,3 +35,7 @@ E:\ERPPE\Halley.Entidad\bin\Debug\Halley.Entidad.dll
 E:\ERPPE\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
 E:\ERPPE\Halley.Entidad\obj\Debug\Halley.Entidad.dll
 E:\ERPPE\Halley.Entidad\obj\Debug\Halley.Entidad.pdb
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Entidad\bin\Debug\Halley.Entidad.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Entidad\bin\Debug\Halley.Entidad.pdb
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Entidad\obj\Debug\Halley.Entidad.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Entidad\obj\Debug\Halley.Entidad.pdb

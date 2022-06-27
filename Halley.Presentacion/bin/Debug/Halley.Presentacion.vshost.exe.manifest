@@ -331,7 +331,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ejaa3B4hTTPldHUcyH1M/ihcrfk=</dsig:DigestValue>
+        <dsig:DigestValue>aURtouPcYBIhrJDWxse2nrBiN1Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -343,7 +343,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>B0NfvddCV4QOsy+4AIwXJx1OrIU=</dsig:DigestValue>
+        <dsig:DigestValue>HyAvOX2n/Oog63ID+8WsvAl3GZs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -355,7 +355,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>k4WCvZHvMjokcCFjDcCxUFhwKh0=</dsig:DigestValue>
+        <dsig:DigestValue>wO+Yqts+ll91yncvGD6ZG+p1Xls=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -367,7 +367,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>DloSTeFcJs8yfhkWnwZcj+yCnVo=</dsig:DigestValue>
+        <dsig:DigestValue>I44FQJAIleVo3yIzTsPQL9mZQI0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -379,19 +379,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>KFBhosN/5CwdT1dySuQo+lU3MxE=</dsig:DigestValue>
+        <dsig:DigestValue>hOSRo9/Hw7j9v3X9h4gvWrcpm7M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Halley.Presentacion.exe" size="10360832">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Halley.Presentacion.exe" size="10351616">
       <assemblyIdentity name="Halley.Presentacion" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>/wQIr34hwnZiPLRp4BHzPWfuAJ8=</dsig:DigestValue>
+        <dsig:DigestValue>70Qv6TU+WFj45nhMCVHh7vxB8Wo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -403,7 +403,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>tLfD7MsG/4H6i/3Q1YsoQtW80rw=</dsig:DigestValue>
+        <dsig:DigestValue>TwqqzrXjcI0ZrC5DUBMT+qExU0U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -432,14 +432,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll" size="65128">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll" size="47000">
       <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs.resources" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="es" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>DhOcLsZLOsJUzgYNQO96184Nhps=</dsig:DigestValue>
+        <dsig:DigestValue>gPhZZDCmM0hSwlmvA8Zvt1auOz0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -500,13 +500,13 @@
       <dsig:DigestValue>6Hoy+pN7CxFnHIAnVGb9LDmALac=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Halley.Presentacion.exe.config" size="4673">
+  <file name="Halley.Presentacion.exe.config" size="4836">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>HdMykEJalUb58B5s0BNXFG95xXQ=</dsig:DigestValue>
+      <dsig:DigestValue>yL33KOh343jjolLhTllHCu8EZuM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\Agregar32x32.gif" size="1343">

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><VoidedDocuments xmlns="urn:sunat:names:specification:ubl:peru:schema:xsd:VoidedDocuments-1" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:sac="urn:sunat:names:specification:ubl:peru:schema:xsd:SunatAggregateComponents-1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:sunat:names:specification:ubl:peru:schema:xsd:VoidedDocuments-1 UBLPE-VoidedDocuments-1.0.xsd">                 
+<ext:UBLExtensions>
+
+		<ext:UBLExtension>
+			<ext:ExtensionContent><ds:Signature Id="SignSUNAT"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>rRvJzhxfLeoug8Dn0jmlsGRCWng=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>wRyg0BePI7UH/OTPigrLs127uQm2dor5coGA7VTCRcIQ/iEBA7i86z1ZP9e4Cr+VWZU5Fzc8qTUPKLi3236nOADFiWgmV6FVF2pjbgHMgZHXT1kW4VO10hLvemZzYbFIO2qYe1PzD3JluAO22FY8g2u/+WhtLRYPFi1bevmPHaKw7oa4/jL86Qv4I6UH/eovAKGVAqwr/sa0jyHj+Wqo+7Db3DKS0i1HSSZJCi5861Ayg0Ct1p9IAtuSCU+D+cbDjCC4oxq6dyh94g0aIIj0Ov+qCdUVz7A6W2hr+9ma7XBeKPyCXLoMPYda59BOaw/ra0/W0A7KHqLwVMQ76j8k1w==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></ext:ExtensionContent>
+		</ext:UBLExtension>
+	</ext:UBLExtensions>        
+ <cbc:UBLVersionID>2.0</cbc:UBLVersionID>
+ <cbc:CustomizationID>1.0</cbc:CustomizationID>
+ <cbc:ID>RA-20190916-003</cbc:ID>
+ <cbc:ReferenceDate>2019-09-10</cbc:ReferenceDate>
+ <cbc:IssueDate>2019-09-16</cbc:IssueDate>
+ <cac:Signature>
+    <cbc:ID>20394050599</cbc:ID>
+    <cbc:Note>Elaborado por Sistema de Emision Electronica Facturador SUNAT (SEE-SFS) 1.2</cbc:Note>
+    <cac:SignatoryParty>
+        <cac:PartyIdentification>
+          <cbc:ID>20394050599</cbc:ID>
+        </cac:PartyIdentification>
+        <cac:PartyName>
+          <cbc:Name>CORPORACION PERUANA DE ENVASES E.I.R.L.</cbc:Name>
+        </cac:PartyName>
+        <cac:AgentParty>
+          <cac:PartyIdentification>
+            <cbc:ID>20394050599</cbc:ID>
+          </cac:PartyIdentification>
+          <cac:PartyName>
+            <cbc:Name>CORPORACION PERUANA DE ENVASES E.I.R.L.</cbc:Name>
+          </cac:PartyName>
+          <cac:PartyLegalEntity>
+            <cbc:RegistrationName>CORPORACION PERUANA DE ENVASES E.I.R.L.</cbc:RegistrationName>
+          </cac:PartyLegalEntity>
+        </cac:AgentParty>
+      </cac:SignatoryParty>
+      <cac:DigitalSignatureAttachment>
+        <cac:ExternalReference>
+          <cbc:URI>SIGN</cbc:URI>
+        </cac:ExternalReference>
+      </cac:DigitalSignatureAttachment>
+ </cac:Signature>
+  
+ <cac:AccountingSupplierParty>
+  <cbc:CustomerAssignedAccountID>20394050599</cbc:CustomerAssignedAccountID>
+  <cbc:AdditionalAccountID>6</cbc:AdditionalAccountID>
+  <cac:Party>
+    <cac:PartyLegalEntity>
+      <cbc:RegistrationName>CORPORACION PERUANA DE ENVASES E.I.R.L.</cbc:RegistrationName>
+    </cac:PartyLegalEntity>
+  </cac:Party>
+  </cac:AccountingSupplierParty>
+  <sac:VoidedDocumentsLine>
+    <cbc:LineID>1</cbc:LineID>
+    <cbc:DocumentTypeCode>01</cbc:DocumentTypeCode>
+    <sac:DocumentSerialID>F001</sac:DocumentSerialID>
+    <sac:DocumentNumberID>00004799</sac:DocumentNumberID>
+    <sac:VoidReasonDescription>BAJA POR ANULACIÃ&#x93;N</sac:VoidReasonDescription>
+  </sac:VoidedDocumentsLine>
+</VoidedDocuments>

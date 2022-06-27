@@ -31,7 +31,7 @@ namespace Halley.Presentacion
             //    this.txtPassword.Text = AppSettings.UserClave;
             //    this.txtPassword.Focus();
             //}
-            LblVersion.Text = "08/09/2020_" + Application.ProductVersion;
+            LblVersion.Text = "24/09/2020_" + Application.ProductVersion;
 
             //Halley.CapaLogica.Ventas.CL_Venta aaa = new Halley.CapaLogica.Ventas.CL_Venta();
             //aaa.ObtenerDatosCliente("10430705739");

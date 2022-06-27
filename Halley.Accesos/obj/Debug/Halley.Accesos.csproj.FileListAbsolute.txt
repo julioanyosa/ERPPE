@@ -62,3 +62,12 @@ E:\ERPPE\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
 E:\ERPPE\Halley.Accesos\obj\Debug\Halley.Accesos.csprojResolveAssemblyReference.cache
 E:\ERPPE\Halley.Accesos\obj\Debug\Halley.Accesos.dll
 E:\ERPPE\Halley.Accesos\obj\Debug\Halley.Accesos.pdb
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Accesos\bin\Debug\Halley.Accesos.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Accesos\bin\Debug\Halley.Accesos.pdb
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Accesos\bin\Debug\Halley.Configuracion.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Accesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Accesos\bin\Debug\Halley.Configuracion.pdb
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Accesos\obj\Debug\Halley.Accesos.csprojResolveAssemblyReference.cache
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Accesos\obj\Debug\Halley.Accesos.dll
+D:\janyosa\personal\SISTEMAS\ERPPE\Halley.Accesos\obj\Debug\Halley.Accesos.pdb
